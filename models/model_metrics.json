@@ -1,0 +1,184 @@
+{
+    "best_model": "Random Forest",
+    "models": {
+        "logistic_regression": {
+            "model_name": "Logistic Regression",
+            "train_accuracy": 0.876,
+            "test_accuracy": 0.9046,
+            "precision_macro": 0.9088,
+            "precision_weighted": 0.9068,
+            "recall_macro": 0.901,
+            "recall_weighted": 0.9046,
+            "f1_macro": 0.9043,
+            "f1_weighted": 0.9049,
+            "confusion_matrix": [
+                [
+                    32,
+                    4,
+                    0
+                ],
+                [
+                    3,
+                    96,
+                    5
+                ],
+                [
+                    0,
+                    11,
+                    90
+                ]
+            ],
+            "classification_report": {
+                "High Risk": {
+                    "precision": 0.9142857142857143,
+                    "recall": 0.8888888888888888,
+                    "f1-score": 0.9014084507042254,
+                    "support": 36.0
+                },
+                "Medium Risk": {
+                    "precision": 0.9473684210526315,
+                    "recall": 0.8910891089108911,
+                    "f1-score": 0.9183673469387755,
+                    "support": 101.0
+                },
+                "Low Risk": {
+                    "precision": 0.8648648648648649,
+                    "recall": 0.9230769230769231,
+                    "f1-score": 0.8930232558139535,
+                    "support": 104.0
+                },
+                "accuracy": 0.9045643153526971,
+                "macro avg": {
+                    "precision": 0.9088396667344035,
+                    "recall": 0.901018306958901,
+                    "f1-score": 0.9042663511523181,
+                    "support": 241.0
+                },
+                "weighted avg": {
+                    "precision": 0.9068234115624375,
+                    "recall": 0.9045643153526971,
+                    "f1-score": 0.9048971986341063,
+                    "support": 241.0
+                }
+            },
+            "classes": [
+                "High Risk",
+                "Medium Risk",
+                "Low Risk"
+            ]
+        },
+        "random_forest": {
+            "model_name": "Random Forest",
+            "train_accuracy": 0.9854,
+            "test_accuracy": 0.9087,
+            "precision_macro": 0.9186,
+            "precision_weighted": 0.9114,
+            "recall_macro": 0.9102,
+            "recall_weighted": 0.9087,
+            "f1_macro": 0.9135,
+            "f1_weighted": 0.909,
+            "confusion_matrix": [
+                [
+                    33,
+                    3,
+                    0
+                ],
+                [
+                    2,
+                    97,
+                    5
+                ],
+                [
+                    0,
+                    12,
+                    89
+                ]
+            ],
+            "classification_report": {
+                "High Risk": {
+                    "precision": 0.9428571428571428,
+                    "recall": 0.9166666666666666,
+                    "f1-score": 0.9295774647887324,
+                    "support": 36.0
+                },
+                "Medium Risk": {
+                    "precision": 0.9468085106382979,
+                    "recall": 0.8811881188118812,
+                    "f1-score": 0.9128205128205128,
+                    "support": 101.0
+                },
+                "Low Risk": {
+                    "precision": 0.8660714285714286,
+                    "recall": 0.9326923076923077,
+                    "f1-score": 0.8981481481481481,
+                    "support": 104.0
+                },
+                "accuracy": 0.9087136929460581,
+                "macro avg": {
+                    "precision": 0.9185790273556232,
+                    "recall": 0.9101823643902852,
+                    "f1-score": 0.9135153752524644,
+                    "support": 241.0
+                },
+                "weighted avg": {
+                    "precision": 0.9113773663433767,
+                    "recall": 0.9087136929460581,
+                    "f1-score": 0.9089919831314256,
+                    "support": 241.0
+                }
+            },
+            "classes": [
+                "High Risk",
+                "Medium Risk",
+                "Low Risk"
+            ]
+        }
+    },
+    "top_features": [
+        {
+            "feature": "internal_marks",
+            "importance": 0.24313481554877925
+        },
+        {
+            "feature": "attendance_percentage",
+            "importance": 0.211560632154728
+        },
+        {
+            "feature": "assignment_score",
+            "importance": 0.20451432215307055
+        },
+        {
+            "feature": "previous_academic_marks",
+            "importance": 0.12953494633379248
+        },
+        {
+            "feature": "study_hours_per_week",
+            "importance": 0.12631051044794034
+        },
+        {
+            "feature": "age",
+            "importance": 0.014787684845108883
+        },
+        {
+            "feature": "extracurricular_activities_No",
+            "importance": 0.005729582461515172
+        },
+        {
+            "feature": "department_Computer Science and Engineering",
+            "importance": 0.0055890778781967744
+        },
+        {
+            "feature": "parental_education_Bachelor",
+            "importance": 0.0053186407836933545
+        },
+        {
+            "feature": "gender_Male",
+            "importance": 0.005298285335697223
+        }
+    ],
+    "class_labels": [
+        "High Risk",
+        "Medium Risk",
+        "Low Risk"
+    ]
+}

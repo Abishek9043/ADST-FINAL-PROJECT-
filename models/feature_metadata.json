@@ -1,0 +1,36 @@
+{
+    "features": [
+        "attendance_percentage",
+        "internal_marks",
+        "assignment_score",
+        "study_hours_per_week",
+        "previous_academic_marks",
+        "age",
+        "gender",
+        "department",
+        "extracurricular_activities",
+        "parental_education",
+        "internet_access"
+    ],
+    "numerical_features": [
+        "attendance_percentage",
+        "internal_marks",
+        "assignment_score",
+        "study_hours_per_week",
+        "previous_academic_marks",
+        "age"
+    ],
+    "categorical_features": [
+        "gender",
+        "department",
+        "extracurricular_activities",
+        "parental_education",
+        "internet_access"
+    ],
+    "class_labels": [
+        "High Risk",
+        "Medium Risk",
+        "Low Risk"
+    ],
+    "model_file": "models/edupulse_best_model.joblib"
+}

@@ -1,0 +1,1202 @@
+student_id,student_name,gender,age,department,attendance_percentage,internal_marks,assignment_score,study_hours_per_week,previous_academic_marks,extracurricular_activities,parental_education,internet_access,academic_risk
+STU1001,Gaurav Sharma,Other,22,Information Technology,65.7,55.5,48.9,10.7,64.9,No,Diploma,No,Medium Risk
+STU1002,Pooja Kumar,Other,22,Master of Computer Applications,68.0,45.7,56.1,8.4,55.3,Yes,Doctorate,Yes,Medium Risk
+STU1003,Deepak Trivedi,Female,21,Master of Computer Applications,73.1,72.2,60.9,15.4,76.9,No,High School,Yes,Medium Risk
+STU1004,Deepak Reddy,Male,22,Master of Computer Applications,65.7,57.7,50.7,17.2,69.6,No,Doctorate,Yes,Medium Risk
+STU1005,Neha Bhat,Other,25,Data Science and AI,71.3,72.7,64.6,19.4,62.7,No,Diploma,Yes,Medium Risk
+STU1006,Vikram Trivedi,Female,22,Master of Computer Applications,70.6,64.3,50.7,9.5,67.4,No,Diploma,Yes,Medium Risk
+STU1007,Varun Joshi,Female,24,Computer Science and Engineering,82.3,70.6,67.9,14.0,62.8,Yes,Diploma,Yes,Medium Risk
+STU1008,Sanjay Singh,Male,23,Data Science and AI,86.1,69.7,69.0,15.5,53.5,No,High School,Yes,Medium Risk
+STU1009,Shreya Chopra,Other,22,Information Technology,64.6,57.2,48.4,9.3,69.1,No,High School,Yes,Medium Risk
+STU1010,Zara Mishra,Male,24,Data Science and AI,95.5,84.3,80.9,22.6,77.4,Yes,High School,Yes,Low Risk
+STU1011,Devika Rao,Other,23,Information Technology,44.0,35.3,28.8,2.3,41.7,Yes,Doctorate,Yes,High Risk
+STU1012,Neha Bhat,Male,23,Master of Computer Applications,53.6,51.4,37.4,2.0,50.1,No,Diploma,Yes,High Risk
+STU1013,Rhea Patel,Male,21,Master of Computer Applications,79.0,72.8,77.0,17.3,82.3,No,Master,Yes,Low Risk
+STU1014,Rahul Das,Other,22,Information Technology,87.4,82.1,69.1,21.2,84.5,No,Diploma,Yes,Low Risk
+STU1015,Siddharth Chopra,Male,22,Information Technology,80.1,72.7,73.9,19.0,70.9,No,High School,Yes,Low Risk
+STU1016,Komal Kulkarni,Male,22,Computer Science and Engineering,87.3,69.5,75.6,19.5,67.8,Yes,Diploma,Yes,Low Risk
+STU1017,Zara Mehta,Female,24,Computer Science and Engineering,79.7,77.7,80.5,19.4,65.0,No,Bachelor,Yes,Low Risk
+STU1018,Ananya Nair,Male,21,Information Technology,68.4,71.7,59.4,13.2,65.4,No,Master,Yes,Medium Risk
+STU1019,Rahul Patel,Male,22,Information Technology,94.1,98.3,86.1,20.2,82.0,No,Diploma,Yes,Low Risk
+STU1020,Aishwarya Mehta,Other,23,Data Science and AI,79.0,70.2,66.8,13.1,68.3,Yes,Diploma,Yes,Medium Risk
+STU1021,Priya Kumar,Male,25,Information Technology,81.0,83.0,76.8,20.9,77.4,Yes,Doctorate,Yes,Low Risk
+STU1022,Varun Trivedi,Female,21,Information Technology,87.4,94.6,93.4,25.8,89.8,No,Diploma,Yes,Low Risk
+STU1023,Ishaan Pandey,Female,22,Master of Computer Applications,79.5,83.7,73.6,18.3,78.3,No,High School,Yes,Low Risk
+STU1024,Gaurav Kumar,Other,23,Computer Science and Engineering,85.2,79.5,89.1,19.5,77.0,Yes,Master,Yes,Low Risk
+STU1025,Komal Patel,Female,22,Data Science and AI,77.1,63.1,50.7,10.3,61.8,Yes,Doctorate,Yes,Medium Risk
+STU1026,Zara Pandey,Female,22,Master of Computer Applications,97.6,92.0,80.6,21.1,84.5,No,High School,Yes,Low Risk
+STU1027,Chetan Iyer,Other,21,Information Technology,65.2,63.8,49.8,15.9,60.4,No,High School,No,Medium Risk
+STU1028,Rhea Bose,Male,22,Data Science and AI,97.2,88.7,98.1,28.3,73.5,No,High School,No,Low Risk
+STU1029,Priya Pandey,Male,21,Master of Computer Applications,73.3,62.8,64.5,19.4,62.0,Yes,Bachelor,Yes,Medium Risk
+STU1030,Aniket Deshmukh,Male,22,Computer Science and Engineering,51.6,55.7,42.9,12.5,64.0,Yes,Bachelor,Yes,High Risk
+STU1031,Manish Mishra,Other,21,Master of Computer Applications,69.8,74.5,81.1,19.9,84.2,Yes,Doctorate,Yes,Low Risk
+STU1032,Sakshi Menon,Male,22,Master of Computer Applications,72.4,67.0,60.6,17.1,69.5,No,Bachelor,No,Medium Risk
+STU1033,Rohan Nair,Male,21,Computer Science and Engineering,75.6,79.5,67.5,19.4,78.9,No,Doctorate,Yes,Medium Risk
+STU1034,Deepak Patel,Other,23,Data Science and AI,70.3,60.9,61.6,8.7,62.7,No,High School,Yes,Medium Risk
+STU1035,Chetan Kumar,Male,22,Data Science and AI,86.4,62.0,61.0,13.0,73.7,Yes,Doctorate,Yes,Low Risk
+STU1036,Manish Iyer,Other,23,Data Science and AI,56.6,48.2,51.0,9.4,58.5,No,Diploma,Yes,High Risk
+STU1037,Chetan Saxena,Other,22,Computer Science and Engineering,79.7,83.9,83.0,22.8,77.4,Yes,Bachelor,Yes,Low Risk
+STU1038,Suraj Pillai,Other,24,Information Technology,69.3,68.8,63.9,11.6,67.1,No,Master,No,Medium Risk
+STU1039,Bhavna Das,Male,21,Computer Science and Engineering,77.4,67.3,62.1,12.1,67.8,Yes,Diploma,Yes,Medium Risk
+STU1040,Arjun Joshi,Male,24,Computer Science and Engineering,66.8,55.1,53.5,11.9,62.1,No,Doctorate,Yes,Medium Risk
+STU1041,Pooja Sharma,Male,22,Master of Computer Applications,88.4,85.6,90.0,27.1,87.9,No,Diploma,Yes,Low Risk
+STU1042,Arjun Verma,Female,22,Master of Computer Applications,74.2,55.7,48.5,9.4,62.2,Yes,Doctorate,Yes,Medium Risk
+STU1043,Pranav Iyer,Other,24,Data Science and AI,89.1,84.5,80.5,23.8,76.6,No,Diploma,Yes,Low Risk
+STU1044,Chetan Kumar,Other,22,Data Science and AI,72.6,50.3,51.8,9.7,49.5,No,Diploma,No,Medium Risk
+STU1045,Abhishek Bose,Male,23,Master of Computer Applications,63.0,64.5,63.1,10.3,70.1,No,High School,No,Medium Risk
+STU1046,Varun Chopra,Female,23,Data Science and AI,100.0,82.6,68.6,17.3,79.3,No,Master,Yes,Low Risk
+STU1047,Ananya Pillai,Other,21,Master of Computer Applications,89.3,81.6,92.2,26.4,82.8,No,High School,Yes,Low Risk
+STU1048,Suraj Saxena,Female,22,Master of Computer Applications,64.8,64.7,65.0,19.3,58.4,No,Diploma,Yes,Medium Risk
+STU1049,Neha Reddy,Other,22,Data Science and AI,66.9,70.1,59.8,15.1,71.7,No,Diploma,Yes,Low Risk
+STU1050,Varun Gupta,Female,21,Data Science and AI,66.9,56.6,51.5,12.9,66.2,Yes,Diploma,Yes,Medium Risk
+STU1051,Arjun Das,Other,22,Master of Computer Applications,87.6,76.5,80.5,21.8,71.4,Yes,High School,Yes,Low Risk
+STU1052,Chetan Sharma,Male,22,Computer Science and Engineering,60.7,59.9,72.7,13.4,61.2,Yes,Diploma,Yes,Medium Risk
+STU1053,Tanvi Menon,Female,21,Computer Science and Engineering,65.8,50.3,45.1,9.3,61.6,No,Master,Yes,High Risk
+STU1054,Ananya Gupta,Female,24,Master of Computer Applications,82.5,64.0,73.1,14.1,67.0,No,Master,Yes,Low Risk
+STU1055,Priya Das,Female,22,Data Science and AI,78.0,83.0,75.5,20.4,89.6,Yes,Doctorate,Yes,Low Risk
+STU1056,Aishwarya Kumar,Male,21,Information Technology,67.3,58.7,57.6,13.2,67.9,Yes,Diploma,Yes,Medium Risk
+STU1057,Ananya Trivedi,Other,21,Master of Computer Applications,73.5,73.3,68.8,18.0,69.2,No,Bachelor,Yes,Low Risk
+STU1058,Ananya Verma,Other,22,Data Science and AI,81.2,81.7,79.3,23.0,76.4,Yes,Doctorate,Yes,Low Risk
+STU1059,Bhavna Gupta,Male,22,Master of Computer Applications,99.5,96.5,97.7,27.3,95.4,Yes,Diploma,Yes,Low Risk
+STU1060,Arjun Deshmukh,Male,22,Computer Science and Engineering,83.1,79.0,76.8,21.7,79.9,Yes,Master,Yes,Low Risk
+STU1061,Gaurav Trivedi,Male,22,Master of Computer Applications,67.2,64.3,65.0,14.2,62.1,Yes,Doctorate,Yes,Medium Risk
+STU1062,Deepak Bose,Other,24,Information Technology,72.9,60.4,58.4,12.9,62.4,No,Bachelor,Yes,Medium Risk
+STU1063,Nikhil Pillai,Other,21,Information Technology,79.6,81.3,78.7,21.1,80.6,Yes,Diploma,Yes,Low Risk
+STU1064,Priya Mehta,Male,23,Information Technology,73.3,59.9,64.5,14.3,63.2,No,Master,Yes,Medium Risk
+STU1065,Sakshi Patel,Male,21,Data Science and AI,81.2,66.8,63.1,16.2,63.9,No,Doctorate,Yes,Low Risk
+STU1066,Harsh Singh,Male,22,Computer Science and Engineering,78.0,81.0,77.0,19.4,69.1,No,Doctorate,Yes,Low Risk
+STU1067,Priya Kumar,Female,21,Master of Computer Applications,86.2,73.3,72.0,15.0,71.5,No,Diploma,Yes,Low Risk
+STU1068,Siddharth Rao,Male,22,Data Science and AI,62.6,56.8,38.2,7.3,58.9,No,Doctorate,Yes,Medium Risk
+STU1069,Rohan Deshmukh,Other,21,Master of Computer Applications,83.8,82.1,66.6,14.9,82.3,No,Doctorate,Yes,Low Risk
+STU1070,Rohan Pillai,Male,22,Computer Science and Engineering,72.8,61.4,65.1,7.8,66.0,Yes,Bachelor,Yes,Medium Risk
+STU1071,Gaurav Singh,Other,21,Computer Science and Engineering,67.2,55.3,53.9,11.2,63.0,Yes,Bachelor,Yes,Medium Risk
+STU1072,Rhea Deshmukh,Male,24,Information Technology,79.6,76.2,70.6,19.6,72.5,Yes,Diploma,Yes,Low Risk
+STU1073,Priya Pandey,Female,22,Information Technology,65.1,53.4,53.6,10.0,56.7,Yes,High School,Yes,Medium Risk
+STU1074,Deepak Kulkarni,Female,22,Information Technology,70.3,53.0,49.9,11.0,61.1,Yes,High School,Yes,Medium Risk
+STU1075,Aarav Joshi,Male,23,Information Technology,86.6,87.3,71.1,18.1,79.7,Yes,Diploma,Yes,Low Risk
+STU1076,Vikram Mishra,Other,24,Data Science and AI,56.9,56.3,47.0,11.7,66.2,Yes,Doctorate,Yes,High Risk
+STU1077,Aarav Singh,Male,22,Computer Science and Engineering,93.0,64.6,66.8,16.6,64.5,No,Doctorate,Yes,Low Risk
+STU1078,Akash Chopra,Other,23,Computer Science and Engineering,63.7,66.7,61.6,16.6,61.6,Yes,Master,Yes,Medium Risk
+STU1079,Ishaan Verma,Female,25,Information Technology,72.1,52.8,54.4,8.4,58.0,Yes,High School,Yes,Medium Risk
+STU1080,Shreya Reddy,Other,23,Computer Science and Engineering,84.3,81.5,79.1,20.0,82.0,No,High School,Yes,Low Risk
+STU1081,Shreya Mishra,Female,21,Computer Science and Engineering,68.6,50.4,36.2,5.6,49.5,Yes,Diploma,Yes,Medium Risk
+STU1082,Manish Gupta,Female,24,Master of Computer Applications,73.5,69.8,68.7,12.9,82.3,Yes,Diploma,Yes,Medium Risk
+STU1083,Sanjay Bose,Other,21,Computer Science and Engineering,86.8,94.1,90.5,26.7,87.3,No,Bachelor,Yes,Low Risk
+STU1084,Manish Bhat,Male,22,Data Science and AI,90.6,77.0,79.8,20.9,80.4,Yes,High School,Yes,Low Risk
+STU1085,Abhishek Nair,Male,23,Data Science and AI,60.3,65.7,58.5,15.1,65.1,No,Bachelor,Yes,Medium Risk
+STU1086,Rohan Nair,Male,25,Master of Computer Applications,73.9,66.5,63.1,14.9,73.5,No,Diploma,No,Medium Risk
+STU1087,Suraj Joshi,Female,21,Master of Computer Applications,62.7,60.8,43.8,13.5,60.4,Yes,Bachelor,Yes,Medium Risk
+STU1088,Shreya Kulkarni,Other,22,Data Science and AI,94.9,92.0,98.9,21.9,77.3,No,Doctorate,Yes,Low Risk
+STU1089,Sanjay Sharma,Male,24,Information Technology,51.4,40.5,29.5,0.0,57.9,No,Diploma,No,High Risk
+STU1090,Karan Iyer,Male,21,Master of Computer Applications,66.1,54.5,57.2,10.1,68.8,Yes,Doctorate,Yes,Medium Risk
+STU1091,Varun Chopra,Other,24,Information Technology,77.8,83.9,76.9,26.5,82.1,No,Master,Yes,Low Risk
+STU1092,Komal Pandey,Male,22,Data Science and AI,65.2,64.1,56.4,16.1,58.8,No,Doctorate,Yes,Medium Risk
+STU1093,Neha Iyer,Male,21,Data Science and AI,64.2,62.0,61.3,11.8,65.1,No,High School,Yes,Medium Risk
+STU1094,Bhavna Mishra,Other,22,Computer Science and Engineering,89.7,74.7,72.3,16.5,67.9,Yes,Bachelor,Yes,Low Risk
+STU1095,Varun Patel,Other,22,Information Technology,79.1,83.1,77.1,20.5,86.0,No,Doctorate,Yes,Low Risk
+STU1096,Sakshi Pillai,Male,24,Information Technology,88.8,87.3,79.5,21.0,82.5,No,Doctorate,Yes,Low Risk
+STU1097,Rohan Pillai,Female,22,Information Technology,79.0,79.9,64.0,19.3,74.2,Yes,Master,Yes,Low Risk
+STU1098,Rhea Mishra,Male,22,Computer Science and Engineering,78.5,78.8,68.6,15.7,72.4,No,Master,Yes,Low Risk
+STU1099,Sneha Pillai,Other,22,Computer Science and Engineering,76.6,69.8,68.5,18.0,69.3,Yes,Doctorate,No,Medium Risk
+STU1100,Harsh Rao,Female,22,Master of Computer Applications,89.3,85.3,75.7,19.9,89.0,No,Bachelor,Yes,Low Risk
+STU1101,Rhea Reddy,Female,22,Information Technology,67.0,61.8,60.9,8.8,63.6,Yes,Master,No,Medium Risk
+STU1102,Vikram Das,Other,24,Computer Science and Engineering,58.5,49.5,41.7,5.9,58.3,No,Doctorate,Yes,High Risk
+STU1103,Abhishek Saxena,Male,21,Master of Computer Applications,90.0,69.7,77.8,20.4,79.3,No,Bachelor,Yes,Low Risk
+STU1104,Aniket Pillai,Other,23,Information Technology,88.9,88.4,76.4,20.5,76.7,No,High School,Yes,Low Risk
+STU1105,Pranav Pillai,Female,21,Computer Science and Engineering,54.1,49.3,43.9,8.7,60.1,Yes,Diploma,Yes,High Risk
+STU1106,Kavya Sharma,Male,22,Computer Science and Engineering,71.4,60.8,59.0,14.2,57.3,Yes,Master,Yes,Medium Risk
+STU1107,Mayank Patel,Female,22,Data Science and AI,64.5,56.1,48.0,11.3,60.7,No,Doctorate,Yes,Medium Risk
+STU1108,Neha Bhat,Other,23,Data Science and AI,70.8,58.0,61.6,13.7,59.7,Yes,Master,Yes,Medium Risk
+STU1109,Suraj Nair,Male,23,Master of Computer Applications,75.9,78.4,84.2,19.0,79.0,Yes,High School,Yes,Low Risk
+STU1110,Varun Nair,Male,21,Data Science and AI,81.2,70.7,67.7,16.3,75.2,Yes,High School,Yes,Low Risk
+STU1111,Devika Nair,Male,22,Data Science and AI,60.1,60.7,51.7,11.2,60.0,Yes,Diploma,Yes,Medium Risk
+STU1112,Zara Pillai,Other,22,Information Technology,92.9,86.0,88.3,21.4,88.8,Yes,Master,Yes,Low Risk
+STU1113,Mayank Saxena,Other,24,Data Science and AI,88.5,86.0,84.5,20.9,70.5,Yes,Doctorate,Yes,Low Risk
+STU1114,Vikram Gupta,Other,24,Data Science and AI,76.7,62.3,64.3,12.2,66.4,Yes,Master,Yes,Medium Risk
+STU1115,Priya Nair,Other,22,Information Technology,85.8,78.7,69.3,17.8,66.3,Yes,Doctorate,Yes,Medium Risk
+STU1116,Aishwarya Kulkarni,Male,21,Information Technology,69.5,61.6,70.2,17.0,57.9,No,Master,Yes,Medium Risk
+STU1117,Arjun Bhat,Female,21,Computer Science and Engineering,75.7,88.6,93.0,23.7,77.9,Yes,Bachelor,Yes,Low Risk
+STU1118,Sanjay Joshi,Other,21,Master of Computer Applications,80.5,78.1,73.9,19.9,78.2,Yes,Diploma,Yes,Medium Risk
+STU1119,Kavya Nair,Female,21,Computer Science and Engineering,76.6,64.5,83.1,17.9,77.9,No,Diploma,Yes,Medium Risk
+STU1120,Arjun Bose,Female,21,Information Technology,73.1,82.5,71.1,19.8,70.3,No,Doctorate,Yes,Low Risk
+STU1121,Zara Bose,Male,23,Computer Science and Engineering,82.4,75.2,74.3,20.8,71.5,No,Master,Yes,Low Risk
+STU1122,Sneha Trivedi,Other,23,Master of Computer Applications,72.9,74.6,71.6,22.6,76.3,No,Doctorate,Yes,Low Risk
+STU1123,Sneha Menon,Male,24,Information Technology,70.4,77.4,73.1,20.0,70.0,No,Bachelor,Yes,Low Risk
+STU1124,Sneha Bose,Other,22,Computer Science and Engineering,83.1,67.9,79.6,19.1,69.8,Yes,Master,Yes,Medium Risk
+STU1125,Pooja Iyer,Female,22,Data Science and AI,63.0,54.6,57.0,7.4,52.9,Yes,High School,Yes,High Risk
+STU1126,Sneha Joshi,Other,24,Data Science and AI,57.0,67.6,59.8,8.8,69.3,No,Diploma,Yes,High Risk
+STU1127,Zara Kumar,Other,23,Master of Computer Applications,71.9,68.0,57.3,15.6,70.8,No,Master,Yes,Medium Risk
+STU1128,Karan Trivedi,Other,22,Master of Computer Applications,54.2,57.6,44.8,12.9,54.2,No,High School,Yes,High Risk
+STU1129,Varun Kumar,Female,21,Computer Science and Engineering,97.4,99.0,92.3,26.7,82.8,Yes,High School,Yes,Low Risk
+STU1130,Priya Mehta,Female,22,Computer Science and Engineering,77.0,65.7,56.4,16.5,66.4,No,Master,No,Low Risk
+STU1131,Sakshi Joshi,Female,23,Information Technology,89.8,87.3,73.6,18.4,74.1,Yes,Master,No,Low Risk
+STU1132,Priya Patel,Female,22,Master of Computer Applications,70.3,60.6,58.0,13.3,61.1,Yes,Doctorate,Yes,Medium Risk
+STU1133,Ananya Chopra,Male,22,Master of Computer Applications,94.3,87.4,76.8,19.8,84.6,Yes,High School,Yes,Low Risk
+STU1134,Aditi Nair,Male,23,Master of Computer Applications,66.4,46.9,42.4,6.9,48.6,No,Doctorate,Yes,High Risk
+STU1135,Kavya Nair,Male,21,Data Science and AI,63.3,64.8,56.2,11.9,66.6,Yes,High School,Yes,Medium Risk
+STU1136,Harsh Reddy,Female,22,Information Technology,99.5,99.0,100.0,31.8,86.9,No,Bachelor,Yes,Low Risk
+STU1137,Manish Deshmukh,Other,21,Master of Computer Applications,77.0,66.7,53.1,11.2,59.0,Yes,Diploma,Yes,Medium Risk
+STU1138,Rohan Singh,Other,21,Master of Computer Applications,61.5,61.7,54.4,11.3,69.8,No,Bachelor,No,Medium Risk
+STU1139,Harsh Pillai,Female,21,Data Science and AI,59.3,51.0,50.0,7.9,57.9,No,Diploma,Yes,High Risk
+STU1140,Arjun Trivedi,Other,22,Computer Science and Engineering,64.3,49.5,51.8,7.2,54.5,No,High School,Yes,Medium Risk
+STU1141,Rohan Pillai,Other,24,Master of Computer Applications,62.1,53.4,59.6,12.6,62.8,No,Doctorate,Yes,Medium Risk
+STU1142,Akash Chopra,Other,23,Data Science and AI,83.6,79.7,72.4,16.9,80.0,No,Bachelor,Yes,Low Risk
+STU1143,Arjun Pandey,Other,22,Information Technology,69.0,56.6,62.7,18.9,71.2,Yes,High School,Yes,Medium Risk
+STU1144,Tanvi Menon,Male,21,Data Science and AI,77.7,60.2,54.6,11.1,63.0,No,Bachelor,Yes,Medium Risk
+STU1145,Zara Bhat,Male,23,Data Science and AI,62.6,52.6,47.9,9.8,68.4,No,Diploma,Yes,Medium Risk
+STU1146,Bhavna Kulkarni,Female,21,Data Science and AI,92.2,71.7,74.6,22.8,76.4,Yes,Master,Yes,Low Risk
+STU1147,Varun Saxena,Other,22,Information Technology,51.3,50.7,44.9,10.5,72.4,Yes,Bachelor,Yes,High Risk
+STU1148,Pranav Patel,Female,22,Data Science and AI,65.0,65.0,55.3,14.9,57.4,Yes,Diploma,Yes,Medium Risk
+STU1149,Zara Trivedi,Other,22,Data Science and AI,84.9,78.3,77.9,17.8,76.4,Yes,Bachelor,Yes,Low Risk
+STU1150,Aditi Menon,Female,22,Computer Science and Engineering,78.8,77.7,66.5,22.0,69.5,No,Master,Yes,Medium Risk
+STU1151,Nikhil Chopra,Female,22,Information Technology,73.0,57.2,62.0,12.4,61.2,No,Bachelor,Yes,Medium Risk
+STU1152,Komal Bhat,Female,22,Master of Computer Applications,94.3,99.0,87.6,26.5,85.8,Yes,Doctorate,Yes,Low Risk
+STU1153,Neha Patel,Male,25,Data Science and AI,78.2,83.0,74.6,21.6,79.6,No,Master,Yes,Low Risk
+STU1154,Devika Nair,Other,22,Data Science and AI,60.0,55.8,53.3,8.4,59.0,No,Master,Yes,Medium Risk
+STU1155,Vikram Sharma,Male,24,Information Technology,93.7,85.4,83.8,18.6,77.5,No,Diploma,Yes,Low Risk
+STU1156,Suraj Bhat,Male,22,Information Technology,77.0,77.7,79.4,19.8,71.9,No,Doctorate,No,Low Risk
+STU1157,Siddharth Menon,Other,23,Information Technology,67.8,51.3,52.3,5.8,54.7,No,Master,Yes,Medium Risk
+STU1158,Devika Joshi,Female,22,Data Science and AI,75.3,75.1,78.9,18.1,71.3,Yes,Bachelor,Yes,Low Risk
+STU1159,Rohan Iyer,Male,22,Master of Computer Applications,68.9,69.2,62.5,21.2,66.1,Yes,Diploma,Yes,Medium Risk
+STU1160,Sakshi Singh,Other,23,Computer Science and Engineering,40.6,37.3,25.8,2.0,40.0,No,Diploma,Yes,High Risk
+STU1161,Nikhil Saxena,Female,22,Information Technology,99.5,99.0,100.0,31.0,94.4,No,Doctorate,Yes,Low Risk
+STU1162,Bhavna Deshmukh,Female,21,Master of Computer Applications,97.1,99.0,84.3,25.0,83.7,Yes,Diploma,Yes,Low Risk
+STU1163,Rhea Nair,Female,22,Computer Science and Engineering,82.6,83.4,65.3,15.2,78.3,Yes,Bachelor,Yes,Low Risk
+STU1164,Aarav Bhat,Other,22,Computer Science and Engineering,89.7,75.0,78.5,22.2,69.7,Yes,Bachelor,Yes,Low Risk
+STU1165,Akash Verma,Other,22,Information Technology,84.8,82.2,85.9,21.2,82.7,Yes,Diploma,No,Low Risk
+STU1166,Aishwarya Singh,Male,21,Information Technology,72.2,73.3,62.8,19.9,65.9,No,Master,Yes,Medium Risk
+STU1167,Abhishek Das,Female,23,Computer Science and Engineering,67.7,49.9,43.2,8.4,58.9,No,High School,Yes,Medium Risk
+STU1168,Priya Menon,Male,23,Master of Computer Applications,99.4,86.4,82.2,18.6,90.1,No,Master,Yes,Low Risk
+STU1169,Aishwarya Patel,Other,24,Master of Computer Applications,78.0,71.2,83.4,18.6,82.2,Yes,Diploma,Yes,Low Risk
+STU1170,Kavya Trivedi,Female,22,Master of Computer Applications,74.2,76.7,61.2,16.1,74.7,Yes,Diploma,Yes,Medium Risk
+STU1171,Gaurav Mishra,Female,24,Computer Science and Engineering,79.6,71.1,72.7,22.6,68.8,Yes,Doctorate,Yes,Low Risk
+STU1172,Sneha Das,Female,22,Information Technology,93.0,99.0,87.7,27.1,89.0,No,Doctorate,Yes,Low Risk
+STU1173,Varun Rao,Other,21,Master of Computer Applications,57.6,52.3,45.7,8.3,58.6,No,Doctorate,Yes,High Risk
+STU1174,Divya Reddy,Other,24,Computer Science and Engineering,62.6,63.5,56.2,12.7,60.1,No,Bachelor,Yes,Medium Risk
+STU1175,Deepak Gupta,Male,22,Computer Science and Engineering,94.4,82.2,84.0,23.9,80.7,No,Doctorate,Yes,Low Risk
+STU1176,Arjun Gupta,Male,22,Data Science and AI,80.4,76.4,84.2,18.8,70.8,No,Master,Yes,Low Risk
+STU1177,Komal Menon,Female,21,Master of Computer Applications,83.6,82.8,83.8,18.9,74.9,No,Diploma,Yes,Low Risk
+STU1178,Rhea Bhat,Female,21,Data Science and AI,75.5,67.1,66.3,16.0,68.6,No,High School,Yes,Medium Risk
+STU1179,Pooja Iyer,Other,23,Computer Science and Engineering,71.5,62.3,41.8,9.4,74.8,No,Master,Yes,Medium Risk
+STU1180,Gaurav Mishra,Male,21,Computer Science and Engineering,84.4,76.0,84.6,20.9,77.6,No,Bachelor,Yes,Low Risk
+STU1181,Kavya Patel,Male,23,Computer Science and Engineering,75.1,73.8,64.0,18.5,69.8,Yes,Bachelor,Yes,Low Risk
+STU1182,Komal Saxena,Other,21,Information Technology,60.3,50.3,49.6,11.3,64.0,No,Master,Yes,Medium Risk
+STU1183,Gaurav Das,Other,22,Information Technology,92.4,77.0,80.9,18.4,84.3,Yes,Master,Yes,Low Risk
+STU1184,Rahul Pandey,Other,22,Data Science and AI,82.3,80.1,73.7,22.3,63.5,Yes,Master,Yes,Low Risk
+STU1185,Deepak Deshmukh,Male,23,Data Science and AI,72.6,71.4,61.2,15.5,67.5,Yes,Bachelor,No,Medium Risk
+STU1186,Komal Iyer,Male,21,Master of Computer Applications,69.3,61.3,62.5,13.3,66.0,No,Diploma,Yes,Medium Risk
+STU1187,Harsh Trivedi,Male,22,Information Technology,87.0,84.0,74.5,20.6,75.6,No,Doctorate,Yes,Low Risk
+STU1188,Akash Gupta,Female,25,Data Science and AI,72.5,66.0,59.6,11.1,71.2,No,Bachelor,Yes,Medium Risk
+STU1189,Meera Trivedi,Female,22,Data Science and AI,98.4,99.0,83.3,23.2,86.1,Yes,High School,Yes,Low Risk
+STU1190,Abhishek Chopra,Female,23,Information Technology,89.3,94.0,87.4,25.0,98.0,No,Bachelor,Yes,Low Risk
+STU1191,Divya Gupta,Female,23,Data Science and AI,71.8,60.3,47.3,15.0,55.7,No,Master,Yes,Medium Risk
+STU1192,Rhea Pillai,Female,22,Master of Computer Applications,57.1,57.7,36.5,8.4,59.5,No,Master,Yes,High Risk
+STU1193,Deepak Joshi,Female,24,Information Technology,67.0,53.3,59.2,11.8,48.2,Yes,High School,Yes,Medium Risk
+STU1194,Suraj Pandey,Male,22,Data Science and AI,72.4,63.3,56.4,13.1,54.0,Yes,Master,Yes,Medium Risk
+STU1195,Ananya Reddy,Other,22,Information Technology,62.4,49.4,49.0,13.0,49.7,No,Doctorate,Yes,Medium Risk
+STU1196,Aishwarya Kulkarni,Female,21,Master of Computer Applications,73.7,68.7,61.6,13.7,58.5,Yes,Diploma,Yes,Medium Risk
+STU1197,Rahul Mishra,Male,22,Information Technology,80.6,66.3,65.3,19.7,69.3,No,Master,No,Low Risk
+STU1198,Aishwarya Singh,Male,21,Computer Science and Engineering,64.6,69.0,57.7,16.5,71.0,No,Diploma,Yes,Medium Risk
+STU1199,Rohan Mishra,Male,23,Data Science and AI,76.8,63.1,61.1,18.1,70.3,Yes,High School,Yes,Medium Risk
+STU1200,Pooja Singh,Female,22,Master of Computer Applications,86.0,77.7,73.2,19.7,75.1,No,Diploma,Yes,Low Risk
+STU1201,Aishwarya Bhat,Female,21,Information Technology,59.4,57.3,43.9,11.3,51.6,No,Master,Yes,High Risk
+STU1202,Abhishek Menon,Male,21,Data Science and AI,93.0,84.3,84.2,21.0,79.9,No,Doctorate,No,Low Risk
+STU1203,Kavya Mehta,Male,22,Computer Science and Engineering,51.3,48.5,44.5,9.1,56.9,Yes,High School,Yes,High Risk
+STU1204,Rahul Bose,Female,23,Information Technology,89.1,73.0,68.2,20.7,69.6,Yes,High School,No,Low Risk
+STU1205,Rhea Saxena,Female,22,Data Science and AI,66.1,59.2,54.8,17.9,62.6,No,Diploma,Yes,Medium Risk
+STU1206,Vikram Mishra,Female,22,Information Technology,75.0,72.4,79.7,23.9,59.8,Yes,Bachelor,Yes,Low Risk
+STU1207,Devika Mishra,Female,22,Data Science and AI,65.0,66.1,69.5,14.4,71.1,Yes,Bachelor,Yes,Medium Risk
+STU1208,Neha Bhat,Male,23,Data Science and AI,78.9,76.8,60.5,18.5,79.6,No,Diploma,Yes,Low Risk
+STU1209,Tanvi Verma,Female,22,Data Science and AI,97.7,77.5,69.5,11.3,70.8,No,Master,Yes,Low Risk
+STU1210,Sneha Pillai,Other,25,Computer Science and Engineering,99.5,78.1,87.4,23.7,88.5,Yes,Master,Yes,Low Risk
+STU1211,Akash Kumar,Other,21,Information Technology,83.6,88.5,78.6,24.0,75.0,No,High School,Yes,Low Risk
+STU1212,Vikram Singh,Other,25,Data Science and AI,72.1,68.4,58.5,14.6,67.5,No,High School,Yes,Medium Risk
+STU1213,Kavya Bose,Other,23,Computer Science and Engineering,77.1,73.4,70.8,20.3,77.1,No,High School,Yes,Medium Risk
+STU1214,Abhishek Iyer,Female,21,Data Science and AI,59.5,38.7,40.4,2.3,53.7,Yes,High School,Yes,High Risk
+STU1215,Sanjay Pillai,Other,21,Data Science and AI,71.1,53.6,55.6,8.6,56.2,Yes,Bachelor,Yes,Medium Risk
+STU1216,Aishwarya Mishra,Male,22,Master of Computer Applications,84.9,75.6,55.7,19.6,84.5,No,Diploma,Yes,Low Risk
+STU1217,Rhea Nair,Other,22,Master of Computer Applications,69.7,61.1,64.7,11.9,62.3,Yes,Master,Yes,Medium Risk
+STU1218,Divya Kulkarni,Other,23,Master of Computer Applications,73.9,67.1,57.6,14.6,67.5,No,Master,Yes,Medium Risk
+STU1219,Manish Bhat,Female,21,Master of Computer Applications,80.5,79.1,68.0,18.7,86.3,Yes,High School,Yes,Low Risk
+STU1220,Sakshi Verma,Female,22,Information Technology,69.7,65.4,62.7,15.4,67.5,No,Bachelor,Yes,Medium Risk
+STU1221,Varun Kumar,Male,22,Data Science and AI,83.1,69.6,74.9,16.8,75.6,No,Doctorate,Yes,Low Risk
+STU1222,Meera Gupta,Male,22,Master of Computer Applications,77.1,69.7,54.8,14.4,58.5,Yes,Doctorate,Yes,Medium Risk
+STU1223,Sneha Deshmukh,Other,22,Computer Science and Engineering,86.8,83.8,92.1,22.0,85.2,No,Master,Yes,Low Risk
+STU1224,Karan Kumar,Male,23,Data Science and AI,73.7,77.0,62.6,18.9,68.4,Yes,Bachelor,Yes,Low Risk
+STU1225,Zara Iyer,Other,23,Master of Computer Applications,54.1,42.5,33.8,7.6,61.9,No,Master,Yes,High Risk
+STU1226,Rhea Pillai,Other,22,Computer Science and Engineering,45.1,36.6,25.0,2.0,43.7,No,High School,Yes,High Risk
+STU1227,Vikram Chopra,Other,23,Information Technology,80.3,56.5,63.1,15.2,63.2,No,Master,Yes,Medium Risk
+STU1228,Priya Das,Female,25,Computer Science and Engineering,62.8,59.2,41.2,9.0,55.1,Yes,Master,Yes,High Risk
+STU1229,Abhishek Singh,Male,21,Data Science and AI,89.5,92.9,86.6,24.9,86.5,Yes,Doctorate,Yes,Low Risk
+STU1230,Shreya Trivedi,Female,21,Information Technology,72.8,64.0,64.9,15.6,56.8,Yes,High School,Yes,Medium Risk
+STU1231,Suraj Iyer,Male,22,Master of Computer Applications,81.2,74.2,75.1,18.9,65.4,Yes,Doctorate,Yes,Medium Risk
+STU1232,Aishwarya Rao,Male,25,Information Technology,74.3,70.8,67.9,20.2,67.3,Yes,Diploma,Yes,Low Risk
+STU1233,Neha Deshmukh,Female,22,Computer Science and Engineering,76.9,65.5,62.5,11.8,70.2,Yes,High School,Yes,Medium Risk
+STU1234,Akash Rao,Female,22,Master of Computer Applications,58.3,49.8,56.0,8.2,50.0,No,Doctorate,Yes,High Risk
+STU1235,Siddharth Saxena,Male,21,Master of Computer Applications,78.5,76.2,65.8,14.3,81.7,No,Bachelor,Yes,Low Risk
+STU1236,Sakshi Saxena,Female,21,Computer Science and Engineering,63.9,50.3,59.6,7.8,54.7,No,Diploma,Yes,Medium Risk
+STU1237,Ishaan Mishra,Female,21,Information Technology,62.9,48.4,46.6,4.6,57.5,Yes,Diploma,Yes,Medium Risk
+STU1238,Priya Menon,Female,22,Information Technology,74.6,55.1,51.7,9.7,64.2,Yes,High School,Yes,Medium Risk
+STU1239,Zara Patel,Male,25,Computer Science and Engineering,76.4,88.6,79.0,25.6,81.2,Yes,Master,Yes,Low Risk
+STU1240,Devika Chopra,Male,22,Data Science and AI,74.1,61.4,41.3,10.6,71.3,Yes,High School,Yes,Medium Risk
+STU1241,Priya Mishra,Male,23,Data Science and AI,80.7,85.1,85.6,23.6,82.9,Yes,Bachelor,Yes,Low Risk
+STU1242,Priya Trivedi,Female,21,Information Technology,57.9,37.1,41.9,5.1,46.8,No,High School,Yes,High Risk
+STU1243,Pooja Menon,Male,23,Information Technology,70.4,53.0,42.9,7.2,62.9,Yes,Doctorate,Yes,Medium Risk
+STU1244,Pooja Kulkarni,Male,23,Data Science and AI,60.7,53.2,47.8,4.5,55.3,No,Bachelor,Yes,High Risk
+STU1245,Tanvi Singh,Male,22,Master of Computer Applications,60.2,68.1,63.3,13.8,71.3,No,High School,Yes,Medium Risk
+STU1246,Rohan Menon,Male,23,Master of Computer Applications,70.9,62.7,65.3,17.7,65.9,No,Diploma,Yes,Medium Risk
+STU1247,Chetan Kumar,Female,23,Data Science and AI,52.9,33.2,41.2,2.7,42.9,No,Bachelor,Yes,High Risk
+STU1248,Chetan Bose,Other,21,Computer Science and Engineering,81.4,74.0,76.4,19.8,74.6,No,Master,Yes,Low Risk
+STU1249,Divya Menon,Other,21,Data Science and AI,57.2,52.3,52.0,9.8,54.0,No,Bachelor,Yes,High Risk
+STU1250,Akash Bhat,Female,22,Computer Science and Engineering,85.5,77.0,68.1,19.3,67.1,No,Master,Yes,Medium Risk
+STU1251,Vikram Nair,Female,22,Master of Computer Applications,63.5,69.6,53.4,11.9,68.7,No,Bachelor,Yes,Medium Risk
+STU1252,Chetan Kulkarni,Female,22,Master of Computer Applications,84.3,66.1,66.3,17.9,66.2,No,Master,No,Medium Risk
+STU1253,Rahul Reddy,Male,22,Data Science and AI,72.0,50.5,61.1,8.9,53.0,Yes,High School,Yes,Medium Risk
+STU1254,Nikhil Kulkarni,Other,22,Master of Computer Applications,50.7,43.2,32.7,4.6,54.6,No,High School,Yes,High Risk
+STU1255,Sanjay Nair,Male,21,Computer Science and Engineering,88.7,82.3,79.5,15.1,79.5,Yes,High School,No,Low Risk
+STU1256,Devika Reddy,Other,22,Computer Science and Engineering,88.6,78.7,85.1,22.5,81.6,No,Diploma,Yes,Low Risk
+STU1257,Sanjay Kumar,Other,22,Master of Computer Applications,71.6,59.6,57.5,10.1,69.7,No,Bachelor,Yes,Medium Risk
+STU1258,Kavya Kumar,Other,23,Information Technology,63.2,74.0,53.0,14.1,79.1,Yes,Diploma,No,Medium Risk
+STU1259,Gaurav Pillai,Male,23,Computer Science and Engineering,75.1,80.9,70.3,19.4,68.4,Yes,High School,Yes,Low Risk
+STU1260,Shreya Nair,Other,21,Information Technology,75.7,89.3,86.2,22.7,80.4,No,High School,No,Low Risk
+STU1261,Meera Iyer,Male,23,Computer Science and Engineering,75.0,58.9,60.6,13.4,72.7,No,Master,Yes,Medium Risk
+STU1262,Bhavna Singh,Other,23,Master of Computer Applications,77.9,70.9,74.1,11.2,63.7,No,Master,Yes,Medium Risk
+STU1263,Vikram Chopra,Other,24,Master of Computer Applications,65.9,60.6,52.2,8.9,65.2,No,Master,Yes,Medium Risk
+STU1264,Aniket Nair,Other,22,Master of Computer Applications,69.9,66.6,63.1,13.2,71.0,Yes,Doctorate,Yes,Medium Risk
+STU1265,Rohan Das,Other,21,Master of Computer Applications,62.1,68.1,53.9,12.4,74.2,Yes,High School,Yes,Medium Risk
+STU1266,Abhishek Mehta,Female,24,Master of Computer Applications,71.5,73.6,71.4,21.7,78.7,Yes,Master,No,Low Risk
+STU1267,Vikram Patel,Male,21,Information Technology,75.2,69.8,68.6,17.4,81.3,No,Doctorate,Yes,Medium Risk
+STU1268,Kavya Patel,Male,23,Information Technology,88.3,78.8,73.5,21.4,67.9,Yes,Doctorate,Yes,Low Risk
+STU1269,Karan Mishra,Other,21,Information Technology,59.4,46.6,41.6,9.7,52.3,No,Master,Yes,High Risk
+STU1270,Komal Pandey,Female,22,Data Science and AI,83.6,82.1,63.0,23.1,69.2,Yes,Doctorate,Yes,Low Risk
+STU1271,Komal Bose,Male,24,Master of Computer Applications,76.4,70.0,60.0,15.1,67.8,No,Doctorate,Yes,Medium Risk
+STU1272,Nikhil Bose,Female,24,Computer Science and Engineering,61.5,52.0,55.9,8.2,72.9,No,Master,Yes,Medium Risk
+STU1273,Sanjay Das,Female,22,Data Science and AI,92.2,77.9,79.3,23.2,84.5,No,High School,Yes,Low Risk
+STU1274,Sakshi Bose,Female,21,Information Technology,91.3,87.2,81.9,21.9,91.7,No,Bachelor,Yes,Low Risk
+STU1275,Kavya Pillai,Female,21,Master of Computer Applications,82.8,74.4,68.0,18.8,71.6,Yes,High School,Yes,Low Risk
+STU1276,Deepak Patel,Female,25,Master of Computer Applications,82.5,80.9,73.2,21.8,79.7,Yes,Bachelor,Yes,Medium Risk
+STU1277,Ishaan Mishra,Male,23,Information Technology,75.6,83.7,76.3,20.1,77.0,No,High School,Yes,Low Risk
+STU1278,Tanvi Chopra,Other,22,Data Science and AI,87.8,79.9,81.1,22.9,73.6,No,High School,Yes,Low Risk
+STU1279,Rhea Deshmukh,Female,24,Information Technology,97.7,87.3,76.4,21.1,84.5,No,High School,Yes,Low Risk
+STU1280,Harsh Pandey,Male,21,Computer Science and Engineering,76.4,82.6,68.4,20.2,79.4,Yes,Master,Yes,Low Risk
+STU1281,Pooja Singh,Female,23,Information Technology,86.9,72.0,78.7,18.3,78.9,No,High School,Yes,Low Risk
+STU1282,Rahul Trivedi,Male,23,Data Science and AI,60.7,65.4,53.3,14.8,67.2,No,Doctorate,Yes,Medium Risk
+STU1283,Mayank Deshmukh,Other,21,Master of Computer Applications,68.6,60.9,57.7,13.3,68.3,Yes,Doctorate,Yes,Medium Risk
+STU1284,Rahul Sharma,Male,24,Information Technology,91.0,80.3,85.4,23.2,84.5,Yes,Bachelor,Yes,Low Risk
+STU1285,Sanjay Chopra,Male,24,Computer Science and Engineering,83.4,59.0,66.5,14.2,65.4,Yes,Diploma,No,Medium Risk
+STU1286,Harsh Pillai,Female,21,Master of Computer Applications,91.2,92.3,84.4,20.8,89.0,No,Diploma,Yes,Low Risk
+STU1287,Aditi Patel,Other,22,Computer Science and Engineering,86.0,91.3,85.1,24.5,84.4,No,Master,No,Low Risk
+STU1288,Tanvi Das,Female,22,Computer Science and Engineering,88.4,80.0,89.2,20.6,72.1,No,Bachelor,Yes,Low Risk
+STU1289,Rohan Saxena,Female,23,Master of Computer Applications,83.8,64.5,68.6,12.8,76.5,No,High School,Yes,Low Risk
+STU1290,Kavya Gupta,Other,22,Master of Computer Applications,61.0,60.9,65.8,15.3,57.8,No,High School,Yes,Medium Risk
+STU1291,Rahul Das,Other,23,Data Science and AI,57.5,53.3,58.5,18.3,58.3,No,Master,Yes,High Risk
+STU1292,Komal Das,Female,22,Information Technology,81.3,75.3,66.0,20.0,78.8,Yes,Diploma,Yes,Low Risk
+STU1293,Aniket Singh,Female,24,Data Science and AI,68.2,67.0,58.8,13.6,61.5,Yes,High School,Yes,Medium Risk
+STU1294,Rhea Pillai,Other,21,Data Science and AI,65.4,52.6,49.9,12.8,64.1,No,Doctorate,No,Medium Risk
+STU1295,Rohan Verma,Male,21,Data Science and AI,53.0,41.4,33.4,5.5,59.3,No,Doctorate,Yes,High Risk
+STU1296,Ananya Sharma,Male,22,Information Technology,65.7,56.5,55.5,14.3,61.7,Yes,Diploma,Yes,Medium Risk
+STU1297,Ishaan Iyer,Female,22,Information Technology,70.4,60.1,63.5,14.6,72.5,No,High School,Yes,Medium Risk
+STU1298,Aarav Menon,Other,22,Data Science and AI,71.3,70.1,74.5,15.6,80.2,No,Diploma,Yes,Low Risk
+STU1299,Ishaan Mehta,Other,23,Computer Science and Engineering,81.2,91.2,80.7,23.1,79.2,Yes,Doctorate,Yes,Low Risk
+STU1300,Devika Pillai,Female,23,Master of Computer Applications,75.7,45.4,36.4,3.7,64.7,No,Master,Yes,High Risk
+STU1301,Akash Bose,Male,25,Data Science and AI,63.5,60.6,67.3,20.8,70.5,No,High School,Yes,Medium Risk
+STU1302,Sakshi Trivedi,Female,22,Data Science and AI,76.6,74.9,61.4,16.7,70.7,Yes,Master,Yes,Medium Risk
+STU1303,Rhea Singh,Female,22,Master of Computer Applications,80.1,73.4,60.9,14.5,74.0,Yes,Bachelor,Yes,Medium Risk
+STU1304,Manish Deshmukh,Female,24,Information Technology,77.2,65.3,49.6,13.6,59.4,Yes,High School,Yes,Medium Risk
+STU1305,Varun Singh,Male,21,Data Science and AI,68.3,68.6,56.2,10.6,68.8,No,Doctorate,Yes,Medium Risk
+STU1306,Suraj Pandey,Male,22,Data Science and AI,72.4,55.8,52.9,8.0,55.6,No,Bachelor,Yes,High Risk
+STU1307,Sanjay Nair,Female,22,Computer Science and Engineering,69.2,65.6,57.0,12.4,60.4,No,High School,No,Medium Risk
+STU1308,Aniket Kulkarni,Male,21,Computer Science and Engineering,77.9,56.2,53.7,10.5,64.5,Yes,Bachelor,Yes,Medium Risk
+STU1309,Shreya Saxena,Other,23,Computer Science and Engineering,89.5,75.4,72.4,17.4,78.2,No,Diploma,Yes,Low Risk
+STU1310,Divya Kumar,Female,21,Computer Science and Engineering,79.3,73.0,78.1,17.0,70.7,Yes,Diploma,Yes,Low Risk
+STU1311,Komal Kumar,Other,22,Master of Computer Applications,72.9,76.0,75.6,19.2,67.4,No,Diploma,Yes,Medium Risk
+STU1312,Aishwarya Das,Other,21,Data Science and AI,58.7,54.6,51.9,11.5,61.0,Yes,Doctorate,Yes,High Risk
+STU1313,Mayank Joshi,Other,21,Information Technology,72.4,55.1,55.8,7.0,51.3,Yes,Diploma,No,Medium Risk
+STU1314,Vikram Patel,Female,23,Data Science and AI,90.1,74.1,77.3,14.5,77.3,Yes,Bachelor,Yes,Low Risk
+STU1315,Rahul Trivedi,Male,22,Information Technology,68.4,57.4,39.0,6.7,71.9,Yes,Doctorate,Yes,Medium Risk
+STU1316,Arjun Rao,Female,22,Data Science and AI,58.9,49.1,49.4,9.3,61.3,Yes,High School,Yes,High Risk
+STU1317,Ananya Chopra,Female,23,Master of Computer Applications,76.9,72.2,62.0,17.0,70.9,No,High School,Yes,Medium Risk
+STU1318,Mayank Deshmukh,Other,25,Data Science and AI,79.1,72.9,64.9,19.3,69.5,Yes,Master,Yes,Low Risk
+STU1319,Karan Mishra,Other,21,Master of Computer Applications,72.3,69.3,62.9,16.8,68.5,Yes,Master,Yes,Medium Risk
+STU1320,Harsh Kulkarni,Male,22,Information Technology,70.1,74.7,58.6,17.4,67.1,No,Doctorate,Yes,Medium Risk
+STU1321,Abhishek Pandey,Male,23,Master of Computer Applications,83.9,66.1,56.8,13.5,68.9,Yes,Master,Yes,Medium Risk
+STU1322,Divya Joshi,Other,22,Master of Computer Applications,84.2,76.2,58.3,19.0,71.6,Yes,Doctorate,Yes,Medium Risk
+STU1323,Meera Verma,Male,21,Data Science and AI,94.0,93.5,84.2,26.7,83.0,No,Master,Yes,Low Risk
+STU1324,Bhavna Pandey,Other,21,Computer Science and Engineering,79.0,85.6,68.8,21.6,77.4,No,Bachelor,Yes,Low Risk
+STU1325,Siddharth Rao,Female,21,Data Science and AI,87.6,84.9,81.3,25.6,77.5,Yes,Bachelor,Yes,Low Risk
+STU1326,Komal Verma,Other,24,Information Technology,72.9,74.5,60.9,18.8,68.4,Yes,High School,Yes,Low Risk
+STU1327,Sanjay Singh,Other,23,Data Science and AI,91.8,90.9,92.8,23.7,87.9,No,Bachelor,Yes,Low Risk
+STU1328,Priya Saxena,Other,22,Computer Science and Engineering,97.3,83.9,72.6,22.3,69.9,Yes,Bachelor,No,Low Risk
+STU1329,Deepak Trivedi,Other,21,Computer Science and Engineering,99.5,94.1,85.3,22.6,78.0,Yes,Bachelor,Yes,Low Risk
+STU1330,Rohan Kulkarni,Other,23,Data Science and AI,76.3,54.4,48.6,10.9,69.3,Yes,Diploma,Yes,Medium Risk
+STU1331,Komal Bhat,Male,21,Information Technology,58.8,54.0,46.2,10.8,63.7,No,Doctorate,Yes,High Risk
+STU1332,Sneha Kulkarni,Female,21,Computer Science and Engineering,72.0,67.0,52.3,15.6,68.4,Yes,Doctorate,Yes,Medium Risk
+STU1333,Deepak Kulkarni,Other,25,Data Science and AI,63.1,56.5,53.7,12.7,64.5,Yes,Doctorate,Yes,Medium Risk
+STU1334,Siddharth Sharma,Female,23,Information Technology,66.8,63.8,41.0,14.2,72.4,Yes,Diploma,Yes,Medium Risk
+STU1335,Nikhil Joshi,Female,22,Computer Science and Engineering,83.0,71.8,66.1,14.4,76.8,No,Diploma,Yes,Medium Risk
+STU1336,Ishaan Kumar,Male,22,Information Technology,58.3,51.0,37.9,16.0,50.9,Yes,High School,Yes,High Risk
+STU1337,Aniket Mishra,Other,24,Master of Computer Applications,76.2,60.7,62.6,9.8,58.4,Yes,Bachelor,Yes,Medium Risk
+STU1338,Mayank Kumar,Other,21,Data Science and AI,95.3,95.5,81.9,19.5,87.2,Yes,Diploma,Yes,Low Risk
+STU1339,Manish Gupta,Other,22,Computer Science and Engineering,63.8,50.2,46.7,3.9,52.9,Yes,Master,Yes,Medium Risk
+STU1340,Akash Bose,Female,21,Computer Science and Engineering,74.5,71.7,70.3,15.2,68.3,Yes,Master,Yes,Low Risk
+STU1341,Mayank Rao,Other,22,Data Science and AI,81.8,99.0,83.2,27.2,97.2,No,Diploma,Yes,Low Risk
+STU1342,Chetan Nair,Female,21,Data Science and AI,57.7,58.3,55.2,11.0,54.5,No,Diploma,Yes,High Risk
+STU1343,Siddharth Pillai,Other,22,Data Science and AI,74.5,72.9,51.1,14.2,66.5,Yes,Master,Yes,Medium Risk
+STU1344,Rhea Mehta,Other,23,Data Science and AI,73.0,74.8,52.2,11.7,61.4,Yes,Diploma,No,Medium Risk
+STU1345,Neha Deshmukh,Male,24,Information Technology,78.3,64.2,62.6,13.1,61.5,Yes,High School,Yes,Medium Risk
+STU1346,Abhishek Chopra,Other,24,Master of Computer Applications,83.8,91.3,78.0,20.2,88.7,Yes,Doctorate,Yes,Low Risk
+STU1347,Gaurav Rao,Male,23,Computer Science and Engineering,49.0,51.5,37.4,6.9,52.0,No,Bachelor,Yes,High Risk
+STU1348,Vikram Pandey,Male,21,Data Science and AI,80.0,79.7,69.1,20.4,73.2,Yes,High School,Yes,Low Risk
+STU1349,Pooja Das,Female,22,Master of Computer Applications,58.7,46.9,44.8,6.9,52.4,No,Master,Yes,High Risk
+STU1350,Ananya Mehta,Other,25,Information Technology,69.5,64.4,52.1,13.5,81.0,No,Diploma,Yes,Medium Risk
+STU1351,Sneha Patel,Female,21,Computer Science and Engineering,99.5,98.3,100.0,27.3,92.2,Yes,High School,Yes,Low Risk
+STU1352,Sakshi Singh,Other,21,Information Technology,84.7,93.7,88.3,29.1,82.2,Yes,Diploma,Yes,Low Risk
+STU1353,Ishaan Verma,Female,22,Data Science and AI,93.6,99.0,92.7,28.2,74.2,Yes,Diploma,Yes,Low Risk
+STU1354,Abhishek Das,Other,22,Master of Computer Applications,68.1,57.2,48.3,14.0,67.6,No,High School,Yes,Medium Risk
+STU1355,Aditi Iyer,Male,23,Computer Science and Engineering,77.2,74.3,58.2,13.6,72.3,Yes,Doctorate,Yes,Low Risk
+STU1356,Komal Pandey,Female,22,Master of Computer Applications,67.2,60.9,51.6,11.5,66.8,No,Bachelor,Yes,Medium Risk
+STU1357,Pranav Rao,Male,22,Master of Computer Applications,46.8,36.0,37.3,2.9,47.9,Yes,Diploma,Yes,High Risk
+STU1358,Tanvi Kulkarni,Other,22,Data Science and AI,64.6,49.7,58.5,10.9,58.4,Yes,High School,Yes,Medium Risk
+STU1359,Gaurav Menon,Other,22,Master of Computer Applications,57.8,53.7,43.0,9.0,62.9,Yes,Doctorate,Yes,High Risk
+STU1360,Harsh Nair,Other,22,Computer Science and Engineering,79.4,73.7,58.0,15.4,77.7,No,Bachelor,Yes,Medium Risk
+STU1361,Varun Sharma,Other,21,Information Technology,76.1,63.0,54.8,12.3,64.3,Yes,Diploma,Yes,Medium Risk
+STU1362,Harsh Bose,Male,23,Master of Computer Applications,63.0,69.7,63.9,19.5,78.4,No,Doctorate,Yes,Low Risk
+STU1363,Siddharth Patel,Other,23,Master of Computer Applications,68.3,54.7,65.6,14.9,57.7,Yes,Master,No,Medium Risk
+STU1364,Abhishek Verma,Other,24,Data Science and AI,69.0,62.8,45.6,11.2,66.7,Yes,Bachelor,Yes,Medium Risk
+STU1365,Priya Saxena,Male,23,Information Technology,79.0,89.0,84.1,24.3,92.9,No,High School,Yes,Low Risk
+STU1366,Shreya Nair,Other,22,Master of Computer Applications,77.3,83.7,77.7,19.1,75.9,Yes,Doctorate,Yes,Low Risk
+STU1367,Sanjay Kumar,Male,21,Information Technology,66.5,61.0,40.3,11.8,64.0,Yes,Doctorate,Yes,High Risk
+STU1368,Sanjay Kulkarni,Male,23,Data Science and AI,85.6,79.4,75.4,18.4,67.6,No,Master,Yes,Low Risk
+STU1369,Meera Kumar,Male,22,Data Science and AI,59.2,63.5,57.6,15.4,65.8,No,High School,Yes,High Risk
+STU1370,Rhea Reddy,Male,22,Computer Science and Engineering,74.6,48.4,52.9,13.3,58.1,Yes,High School,Yes,Medium Risk
+STU1371,Sakshi Rao,Other,22,Data Science and AI,70.8,66.2,60.7,17.9,77.9,Yes,Doctorate,Yes,Medium Risk
+STU1372,Abhishek Iyer,Male,22,Computer Science and Engineering,84.9,82.0,77.9,21.3,87.5,No,Bachelor,Yes,Low Risk
+STU1373,Shreya Verma,Other,21,Information Technology,65.5,73.0,64.0,15.4,73.6,Yes,Bachelor,Yes,Medium Risk
+STU1374,Gaurav Chopra,Female,21,Data Science and AI,63.6,60.7,56.3,16.0,75.8,Yes,Master,Yes,Medium Risk
+STU1375,Sneha Joshi,Male,21,Data Science and AI,72.7,83.5,62.8,20.6,80.6,No,Master,Yes,Medium Risk
+STU1376,Siddharth Pandey,Female,22,Master of Computer Applications,73.2,72.2,70.1,19.1,72.3,No,Master,Yes,Low Risk
+STU1377,Deepak Bose,Other,22,Computer Science and Engineering,81.4,84.0,73.7,16.0,91.2,No,Doctorate,Yes,Low Risk
+STU1378,Rhea Joshi,Male,22,Master of Computer Applications,59.6,46.7,39.5,3.3,59.1,Yes,Bachelor,Yes,High Risk
+STU1379,Rhea Rao,Female,21,Data Science and AI,82.1,75.2,67.8,12.9,76.1,No,Diploma,Yes,Low Risk
+STU1380,Vikram Chopra,Female,22,Master of Computer Applications,82.3,66.8,60.8,15.0,68.9,No,Bachelor,Yes,Medium Risk
+STU1381,Mayank Bose,Female,22,Master of Computer Applications,57.6,53.6,40.8,12.5,63.3,Yes,High School,Yes,High Risk
+STU1382,Suraj Chopra,Other,23,Computer Science and Engineering,78.7,97.4,81.3,28.3,89.4,Yes,High School,No,Low Risk
+STU1383,Kavya Deshmukh,Other,24,Data Science and AI,69.6,65.1,68.1,15.6,65.0,Yes,High School,Yes,Medium Risk
+STU1384,Ishaan Patel,Male,23,Information Technology,81.4,75.8,69.1,16.8,77.8,Yes,Bachelor,Yes,Low Risk
+STU1385,Sneha Trivedi,Male,23,Computer Science and Engineering,77.6,70.9,76.6,16.5,64.1,No,Master,Yes,Low Risk
+STU1386,Siddharth Chopra,Female,22,Master of Computer Applications,65.3,42.3,46.5,5.9,46.1,No,Doctorate,Yes,High Risk
+STU1387,Ishaan Pandey,Female,24,Data Science and AI,59.2,42.7,37.3,4.8,50.5,No,Bachelor,Yes,High Risk
+STU1388,Rahul Nair,Male,24,Master of Computer Applications,73.4,60.9,60.3,13.8,66.8,No,Diploma,Yes,Medium Risk
+STU1389,Aishwarya Pandey,Female,22,Master of Computer Applications,71.4,55.5,55.7,10.3,55.8,No,Bachelor,Yes,Medium Risk
+STU1390,Priya Bhat,Female,23,Computer Science and Engineering,90.6,86.1,82.0,22.8,70.9,Yes,Doctorate,No,Low Risk
+STU1391,Rhea Bhat,Female,21,Computer Science and Engineering,74.5,60.9,63.7,16.7,64.5,No,High School,Yes,Medium Risk
+STU1392,Ishaan Patel,Female,22,Computer Science and Engineering,99.5,99.0,99.3,27.3,95.4,No,Master,Yes,Low Risk
+STU1393,Deepak Pillai,Female,23,Information Technology,67.1,74.9,60.5,16.9,75.5,Yes,High School,Yes,Medium Risk
+STU1394,Devika Mishra,Female,21,Information Technology,63.5,48.6,54.9,10.7,68.7,No,Diploma,Yes,Medium Risk
+STU1395,Meera Chopra,Other,22,Computer Science and Engineering,67.5,78.7,63.1,15.8,82.6,Yes,High School,Yes,Low Risk
+STU1396,Neha Kumar,Male,22,Data Science and AI,64.9,59.4,62.2,15.5,53.0,No,High School,Yes,Medium Risk
+STU1397,Siddharth Mishra,Other,22,Information Technology,63.9,52.8,45.6,7.2,60.0,Yes,Master,Yes,Medium Risk
+STU1398,Devika Kumar,Other,21,Master of Computer Applications,73.8,80.4,82.7,23.6,73.9,Yes,High School,Yes,Low Risk
+STU1399,Rohan Mehta,Other,22,Data Science and AI,87.0,88.0,83.1,22.3,90.4,No,Doctorate,Yes,Low Risk
+STU1400,Tanvi Bose,Other,25,Master of Computer Applications,67.2,46.5,49.9,4.6,57.7,Yes,Diploma,Yes,High Risk
+STU1401,Sakshi Kulkarni,Male,21,Data Science and AI,74.0,68.3,60.6,14.0,62.4,Yes,Master,Yes,Medium Risk
+STU1402,Bhavna Chopra,Male,22,Computer Science and Engineering,83.8,72.5,76.1,20.7,72.9,No,Diploma,Yes,Low Risk
+STU1403,Varun Pandey,Male,21,Master of Computer Applications,75.7,72.2,68.8,17.5,75.4,Yes,Doctorate,Yes,Low Risk
+STU1404,Kavya Rao,Male,24,Computer Science and Engineering,78.2,63.0,55.5,16.0,64.7,No,Bachelor,No,Medium Risk
+STU1405,Pooja Chopra,Other,22,Information Technology,80.5,67.3,69.3,10.9,65.0,No,High School,Yes,Medium Risk
+STU1406,Priya Reddy,Other,21,Information Technology,62.0,45.2,42.8,8.5,55.7,Yes,Diploma,Yes,High Risk
+STU1407,Rohan Deshmukh,Other,25,Master of Computer Applications,86.5,81.4,80.9,18.9,80.0,No,Doctorate,Yes,Low Risk
+STU1408,Manish Trivedi,Other,22,Computer Science and Engineering,66.5,54.9,50.5,13.0,53.1,Yes,Diploma,Yes,Medium Risk
+STU1409,Mayank Saxena,Other,22,Information Technology,61.8,67.3,57.0,14.1,63.3,No,Doctorate,Yes,Medium Risk
+STU1410,Akash Sharma,Male,23,Master of Computer Applications,83.8,78.6,70.0,19.5,69.6,No,Doctorate,Yes,Low Risk
+STU1411,Priya Kulkarni,Male,21,Data Science and AI,67.6,58.8,48.4,10.0,58.1,Yes,Doctorate,Yes,Medium Risk
+STU1412,Aditi Menon,Other,22,Information Technology,67.0,69.1,65.8,13.9,66.8,Yes,Bachelor,Yes,Medium Risk
+STU1413,Abhishek Nair,Other,21,Data Science and AI,83.2,80.4,72.8,18.0,82.2,No,Bachelor,Yes,Low Risk
+STU1414,Zara Patel,Other,22,Master of Computer Applications,48.2,23.8,25.0,2.0,40.0,No,Diploma,No,High Risk
+STU1415,Vikram Bose,Female,23,Data Science and AI,82.3,83.2,74.2,21.9,84.4,No,Diploma,No,Low Risk
+STU1416,Sanjay Deshmukh,Male,23,Information Technology,92.2,93.4,96.3,28.1,80.9,No,Bachelor,Yes,Low Risk
+STU1417,Shreya Mehta,Male,22,Information Technology,66.7,47.9,49.4,4.7,66.9,No,Doctorate,Yes,High Risk
+STU1418,Devika Singh,Female,21,Computer Science and Engineering,77.6,69.3,71.3,17.6,61.5,Yes,Master,Yes,Low Risk
+STU1419,Gaurav Iyer,Female,23,Computer Science and Engineering,51.5,51.0,39.7,7.9,52.6,No,Diploma,Yes,High Risk
+STU1420,Divya Verma,Female,22,Data Science and AI,95.6,85.2,89.4,25.6,83.4,Yes,Doctorate,Yes,Low Risk
+STU1421,Tanvi Nair,Male,22,Information Technology,85.8,78.9,70.5,14.8,81.6,Yes,Doctorate,Yes,Low Risk
+STU1422,Sakshi Reddy,Male,22,Data Science and AI,80.4,62.3,75.9,15.4,73.6,Yes,Doctorate,Yes,Low Risk
+STU1423,Zara Menon,Female,21,Data Science and AI,67.9,74.5,73.9,16.7,73.0,No,High School,Yes,Medium Risk
+STU1424,Deepak Mehta,Other,22,Data Science and AI,99.5,99.0,87.3,31.1,98.0,No,Diploma,Yes,Low Risk
+STU1425,Nikhil Trivedi,Female,22,Master of Computer Applications,84.3,72.3,67.8,18.1,64.9,No,High School,Yes,Low Risk
+STU1426,Rhea Menon,Other,21,Data Science and AI,73.2,66.4,52.0,12.6,67.8,No,Bachelor,Yes,Medium Risk
+STU1427,Chetan Sharma,Male,22,Data Science and AI,79.2,62.3,54.9,10.5,63.0,Yes,Diploma,Yes,Medium Risk
+STU1428,Priya Saxena,Female,22,Data Science and AI,63.7,69.0,60.6,20.3,56.8,Yes,Bachelor,Yes,Medium Risk
+STU1429,Akash Mehta,Male,22,Computer Science and Engineering,71.6,72.5,81.4,20.1,78.8,No,Bachelor,Yes,Low Risk
+STU1430,Devika Rao,Male,22,Data Science and AI,69.9,70.7,53.3,15.3,70.1,No,Doctorate,Yes,Medium Risk
+STU1431,Vikram Mishra,Female,22,Master of Computer Applications,75.2,57.2,52.9,10.9,50.8,No,Diploma,Yes,Medium Risk
+STU1432,Divya Mehta,Female,21,Information Technology,82.1,84.4,72.6,22.3,81.6,No,Doctorate,Yes,Low Risk
+STU1433,Siddharth Kumar,Male,22,Data Science and AI,78.0,78.7,85.3,23.0,74.2,No,Doctorate,Yes,Low Risk
+STU1434,Akash Verma,Male,21,Computer Science and Engineering,59.3,47.9,54.5,7.7,60.6,No,Bachelor,Yes,High Risk
+STU1435,Abhishek Pandey,Female,21,Computer Science and Engineering,77.4,67.9,70.4,16.6,65.6,Yes,Doctorate,Yes,Medium Risk
+STU1436,Aniket Kumar,Female,24,Information Technology,87.7,72.6,76.2,14.1,70.9,No,Diploma,Yes,Low Risk
+STU1437,Suraj Deshmukh,Other,23,Information Technology,82.0,73.8,67.4,21.6,72.7,Yes,Doctorate,No,Low Risk
+STU1438,Sanjay Pandey,Other,22,Data Science and AI,65.1,60.4,68.3,16.2,74.4,Yes,Doctorate,Yes,Medium Risk
+STU1439,Rohan Menon,Male,21,Information Technology,53.9,46.1,39.1,8.8,47.2,Yes,Bachelor,Yes,High Risk
+STU1440,Gaurav Bose,Other,22,Information Technology,87.0,91.3,80.6,20.9,86.4,Yes,High School,Yes,Low Risk
+STU1441,Komal Menon,Female,25,Computer Science and Engineering,88.2,77.5,81.4,18.6,74.8,No,High School,Yes,Medium Risk
+STU1442,Karan Menon,Male,25,Data Science and AI,78.2,61.4,66.5,13.0,65.4,Yes,Diploma,Yes,Medium Risk
+STU1443,Pranav Verma,Other,21,Master of Computer Applications,63.5,42.2,38.8,6.0,50.8,No,Diploma,Yes,High Risk
+STU1444,Aditi Das,Female,23,Data Science and AI,61.3,58.3,51.5,10.8,61.7,Yes,Diploma,Yes,Medium Risk
+STU1445,Tanvi Bhat,Male,21,Data Science and AI,64.6,49.7,63.4,13.1,53.6,No,Doctorate,Yes,Medium Risk
+STU1446,Mayank Menon,Other,22,Master of Computer Applications,75.3,77.4,76.4,23.9,61.3,Yes,Diploma,Yes,Medium Risk
+STU1447,Bhavna Reddy,Other,22,Information Technology,65.8,47.4,50.9,12.0,55.0,Yes,Master,Yes,High Risk
+STU1448,Bhavna Mehta,Female,22,Computer Science and Engineering,60.1,67.1,70.6,16.6,67.7,No,Master,No,Medium Risk
+STU1449,Chetan Joshi,Other,23,Information Technology,89.6,99.0,95.1,32.6,87.9,Yes,Bachelor,No,Low Risk
+STU1450,Mayank Menon,Male,23,Computer Science and Engineering,68.8,48.7,35.1,3.7,51.1,No,Bachelor,Yes,High Risk
+STU1451,Devika Rao,Male,22,Information Technology,87.4,75.4,71.9,21.4,70.3,No,Bachelor,Yes,Medium Risk
+STU1452,Nikhil Bhat,Other,21,Data Science and AI,76.0,74.9,69.7,17.4,76.8,No,Bachelor,Yes,Medium Risk
+STU1453,Abhishek Chopra,Other,24,Information Technology,51.8,49.5,48.8,11.2,57.0,No,Bachelor,Yes,High Risk
+STU1454,Gaurav Trivedi,Other,24,Data Science and AI,48.3,51.1,42.9,9.9,50.8,Yes,Master,No,High Risk
+STU1455,Shreya Kumar,Female,22,Master of Computer Applications,55.7,47.8,44.6,9.0,47.2,No,Bachelor,Yes,High Risk
+STU1456,Deepak Chopra,Female,23,Information Technology,65.1,60.3,54.8,8.7,68.0,Yes,Master,Yes,Medium Risk
+STU1457,Nikhil Reddy,Other,21,Information Technology,67.2,62.8,70.0,12.7,58.9,No,Doctorate,Yes,Medium Risk
+STU1458,Rahul Kumar,Male,21,Computer Science and Engineering,73.4,48.1,47.6,9.8,55.4,Yes,Diploma,Yes,Medium Risk
+STU1459,Ananya Pillai,Other,21,Computer Science and Engineering,93.6,97.8,82.8,24.5,86.0,Yes,Diploma,Yes,Low Risk
+STU1460,Ananya Singh,Female,23,Information Technology,66.6,71.6,61.1,18.1,63.7,Yes,Master,Yes,Medium Risk
+STU1461,Divya Pillai,Male,22,Master of Computer Applications,90.9,92.3,76.9,26.0,90.2,No,Doctorate,Yes,Low Risk
+STU1462,Manish Bose,Other,24,Data Science and AI,56.3,35.3,30.4,4.4,51.7,No,Master,Yes,High Risk
+STU1463,Neha Rao,Female,22,Information Technology,59.7,57.1,53.1,9.7,60.9,Yes,High School,Yes,High Risk
+STU1464,Deepak Kulkarni,Other,22,Computer Science and Engineering,93.8,75.3,69.6,16.1,69.7,No,Doctorate,Yes,Low Risk
+STU1465,Akash Gupta,Female,22,Computer Science and Engineering,76.9,73.2,73.5,16.3,76.7,No,High School,Yes,Medium Risk
+STU1466,Suraj Menon,Male,22,Information Technology,76.5,63.6,57.4,13.9,65.5,No,High School,Yes,Medium Risk
+STU1467,Aarav Rao,Other,24,Master of Computer Applications,62.8,55.3,60.7,13.4,69.4,No,Bachelor,Yes,Medium Risk
+STU1468,Rhea Das,Other,21,Data Science and AI,81.7,70.6,67.2,16.3,63.1,No,Diploma,Yes,Low Risk
+STU1469,Aniket Das,Female,21,Computer Science and Engineering,71.2,71.8,66.5,18.6,62.5,No,High School,Yes,Medium Risk
+STU1470,Sanjay Gupta,Other,22,Data Science and AI,71.9,75.5,77.8,20.8,88.6,No,Bachelor,Yes,Low Risk
+STU1471,Meera Sharma,Other,22,Information Technology,79.5,67.7,70.4,14.5,68.4,Yes,Bachelor,Yes,Medium Risk
+STU1472,Harsh Pillai,Male,23,Computer Science and Engineering,73.2,72.8,59.6,18.5,67.2,Yes,Doctorate,Yes,Medium Risk
+STU1473,Suraj Bose,Other,21,Information Technology,77.8,67.4,64.9,17.8,55.7,No,High School,No,Medium Risk
+STU1474,Suraj Pillai,Male,21,Computer Science and Engineering,81.8,82.4,69.2,20.7,81.0,Yes,Diploma,Yes,Low Risk
+STU1475,Abhishek Joshi,Male,22,Master of Computer Applications,95.1,82.9,87.3,23.6,80.6,Yes,Bachelor,Yes,Low Risk
+STU1476,Sneha Nair,Female,21,Information Technology,74.9,73.3,72.6,14.4,68.5,No,Bachelor,Yes,Low Risk
+STU1477,Rohan Trivedi,Other,23,Master of Computer Applications,89.3,79.1,77.0,20.6,68.2,Yes,Bachelor,Yes,Low Risk
+STU1478,Siddharth Bhat,Male,21,Master of Computer Applications,59.8,57.8,58.5,13.4,67.9,Yes,High School,Yes,High Risk
+STU1479,Zara Rao,Male,21,Data Science and AI,91.5,75.5,62.1,16.4,78.0,Yes,Doctorate,Yes,Low Risk
+STU1480,Rohan Bhat,Male,22,Information Technology,78.4,66.9,65.6,11.8,68.3,Yes,Bachelor,Yes,Medium Risk
+STU1481,Mayank Nair,Male,21,Computer Science and Engineering,71.2,66.3,62.5,17.8,68.0,No,Master,No,Medium Risk
+STU1482,Kavya Das,Other,21,Information Technology,79.6,77.3,73.5,12.8,69.4,No,Master,Yes,Low Risk
+STU1483,Devika Menon,Other,22,Computer Science and Engineering,95.2,91.2,91.4,21.1,81.3,Yes,Diploma,Yes,Low Risk
+STU1484,Komal Patel,Other,23,Data Science and AI,90.1,88.6,69.4,19.8,71.7,No,Doctorate,Yes,Low Risk
+STU1485,Siddharth Patel,Other,23,Master of Computer Applications,71.2,70.4,62.9,16.4,76.4,No,High School,No,Medium Risk
+STU1486,Devika Pandey,Male,23,Computer Science and Engineering,81.8,77.8,70.5,19.8,71.2,No,Diploma,Yes,Low Risk
+STU1487,Sakshi Pandey,Female,23,Master of Computer Applications,68.5,65.0,61.3,15.7,62.5,No,Diploma,Yes,Medium Risk
+STU1488,Karan Menon,Male,23,Data Science and AI,83.4,77.8,69.2,19.2,83.4,No,High School,Yes,Low Risk
+STU1489,Zara Kumar,Other,22,Data Science and AI,60.6,55.1,49.1,8.7,57.1,No,Master,No,Medium Risk
+STU1490,Harsh Verma,Other,22,Data Science and AI,68.3,65.3,63.4,14.8,66.2,No,Bachelor,Yes,Medium Risk
+STU1491,Aditi Mehta,Female,25,Master of Computer Applications,97.6,98.5,80.3,22.8,85.1,No,Diploma,Yes,Low Risk
+STU1492,Karan Patel,Male,21,Data Science and AI,99.5,91.8,90.0,25.2,92.4,Yes,Bachelor,Yes,Low Risk
+STU1493,Arjun Mishra,Male,21,Master of Computer Applications,69.1,62.6,75.1,17.1,69.8,No,Master,No,Medium Risk
+STU1494,Akash Rao,Female,22,Computer Science and Engineering,81.5,76.0,63.5,13.8,72.2,Yes,Diploma,Yes,Medium Risk
+STU1495,Tanvi Chopra,Female,22,Data Science and AI,78.4,72.7,69.0,18.3,87.7,Yes,Master,Yes,Medium Risk
+STU1496,Sneha Patel,Other,25,Computer Science and Engineering,91.4,96.3,92.3,25.3,81.8,No,Bachelor,Yes,Low Risk
+STU1497,Gaurav Gupta,Other,22,Data Science and AI,81.7,84.4,76.9,17.1,72.0,No,Doctorate,Yes,Low Risk
+STU1498,Ishaan Saxena,Male,22,Master of Computer Applications,75.4,71.0,73.9,20.4,67.9,No,High School,Yes,Medium Risk
+STU1499,Rohan Das,Other,23,Data Science and AI,56.0,47.7,51.1,11.6,58.9,No,Doctorate,Yes,High Risk
+STU1500,Sneha Nair,Male,23,Data Science and AI,75.7,77.5,66.4,19.4,86.1,No,Bachelor,Yes,Low Risk
+STU1501,Kavya Iyer,Male,21,Master of Computer Applications,60.0,51.1,41.1,5.9,58.9,Yes,High School,Yes,High Risk
+STU1502,Tanvi Deshmukh,Male,22,Computer Science and Engineering,81.4,75.0,79.7,18.3,74.7,Yes,Diploma,Yes,Low Risk
+STU1503,Arjun Singh,Other,22,Master of Computer Applications,85.4,75.3,79.0,20.1,71.6,No,Master,Yes,Low Risk
+STU1504,Komal Pillai,Other,22,Master of Computer Applications,63.8,60.8,53.9,11.3,64.3,Yes,Diploma,Yes,Medium Risk
+STU1505,Akash Mehta,Female,22,Computer Science and Engineering,75.8,81.2,68.3,21.2,79.9,Yes,Doctorate,Yes,Low Risk
+STU1506,Nikhil Verma,Male,22,Information Technology,74.9,66.1,64.5,13.4,60.6,No,Diploma,Yes,Medium Risk
+STU1507,Harsh Joshi,Other,25,Information Technology,83.9,71.5,61.9,13.9,76.6,No,Diploma,Yes,Low Risk
+STU1508,Rohan Kumar,Other,21,Computer Science and Engineering,80.9,65.2,52.7,10.2,62.3,Yes,Master,Yes,Medium Risk
+STU1509,Rohan Iyer,Male,23,Computer Science and Engineering,77.5,75.5,66.5,20.0,66.4,Yes,Master,Yes,Medium Risk
+STU1510,Devika Menon,Male,22,Information Technology,79.1,73.3,70.4,19.1,58.7,No,Master,Yes,Low Risk
+STU1511,Bhavna Joshi,Other,22,Data Science and AI,71.6,55.5,62.4,17.1,54.1,No,Master,Yes,Medium Risk
+STU1512,Kavya Rao,Female,22,Computer Science and Engineering,93.9,82.8,86.1,23.7,83.6,Yes,Doctorate,Yes,Low Risk
+STU1513,Abhishek Nair,Male,22,Information Technology,68.9,73.3,63.0,16.4,64.1,Yes,Diploma,Yes,Medium Risk
+STU1514,Zara Verma,Other,21,Data Science and AI,52.4,52.4,50.0,12.8,64.7,No,Master,Yes,High Risk
+STU1515,Devika Pandey,Male,22,Data Science and AI,80.4,57.9,61.6,12.5,68.5,Yes,Diploma,Yes,Medium Risk
+STU1516,Priya Reddy,Female,25,Master of Computer Applications,94.4,85.7,82.3,24.5,71.4,No,Master,Yes,Low Risk
+STU1517,Siddharth Patel,Other,22,Computer Science and Engineering,75.1,65.4,69.0,12.7,71.5,No,High School,Yes,Medium Risk
+STU1518,Rahul Mehta,Other,24,Master of Computer Applications,90.7,66.1,69.1,7.9,70.3,Yes,High School,Yes,Low Risk
+STU1519,Neha Trivedi,Other,21,Computer Science and Engineering,66.6,56.3,50.0,13.3,64.8,Yes,Master,Yes,Medium Risk
+STU1520,Nikhil Joshi,Female,22,Master of Computer Applications,64.5,73.4,52.0,12.5,81.4,No,Diploma,Yes,Medium Risk
+STU1521,Neha Saxena,Male,21,Data Science and AI,76.6,63.7,58.9,13.7,70.5,No,Diploma,Yes,Medium Risk
+STU1522,Komal Bhat,Male,22,Data Science and AI,70.5,56.6,48.4,9.5,65.8,No,Diploma,Yes,Medium Risk
+STU1523,Devika Joshi,Female,24,Data Science and AI,64.8,48.3,39.4,6.2,55.9,Yes,Master,Yes,Medium Risk
+STU1524,Chetan Kulkarni,Female,23,Information Technology,66.1,63.2,51.1,9.8,67.3,Yes,Bachelor,Yes,Medium Risk
+STU1525,Siddharth Pandey,Female,21,Data Science and AI,91.4,82.7,71.0,18.7,88.5,Yes,High School,Yes,Low Risk
+STU1526,Abhishek Joshi,Male,23,Information Technology,89.2,96.8,90.9,25.7,83.5,No,Bachelor,Yes,Low Risk
+STU1527,Tanvi Verma,Other,23,Computer Science and Engineering,70.1,70.0,64.0,10.7,63.5,No,Diploma,Yes,Medium Risk
+STU1528,Aditi Iyer,Other,21,Data Science and AI,89.8,74.0,77.6,18.6,80.6,No,Bachelor,Yes,Low Risk
+STU1529,Kavya Reddy,Female,21,Computer Science and Engineering,69.3,58.4,51.9,11.0,55.0,No,Master,Yes,Medium Risk
+STU1530,Harsh Nair,Female,23,Information Technology,87.4,78.6,71.9,17.5,73.3,No,Bachelor,Yes,Low Risk
+STU1531,Aishwarya Saxena,Other,25,Data Science and AI,74.0,72.1,61.7,16.3,64.3,No,Master,Yes,Medium Risk
+STU1532,Manish Saxena,Female,23,Computer Science and Engineering,35.3,33.9,28.4,2.0,50.0,Yes,Diploma,Yes,High Risk
+STU1533,Chetan Menon,Male,23,Master of Computer Applications,75.7,79.1,73.1,17.5,77.3,Yes,Doctorate,Yes,Low Risk
+STU1534,Akash Patel,Other,22,Master of Computer Applications,86.9,77.2,79.0,19.2,72.3,Yes,High School,Yes,Low Risk
+STU1535,Tanvi Kumar,Other,21,Computer Science and Engineering,67.2,66.1,64.9,11.7,63.3,Yes,High School,Yes,Medium Risk
+STU1536,Kavya Sharma,Male,21,Data Science and AI,94.6,90.9,89.4,26.7,82.3,No,Bachelor,Yes,Low Risk
+STU1537,Ananya Deshmukh,Other,24,Data Science and AI,80.0,69.8,68.7,19.5,77.8,No,Master,No,Medium Risk
+STU1538,Aditi Sharma,Other,22,Data Science and AI,57.7,53.8,52.4,10.0,45.8,Yes,High School,Yes,High Risk
+STU1539,Aditi Pandey,Other,25,Information Technology,69.0,63.4,70.8,13.5,55.6,No,Doctorate,Yes,Medium Risk
+STU1540,Rhea Sharma,Other,22,Data Science and AI,94.1,82.2,89.5,23.4,67.2,Yes,Diploma,Yes,Low Risk
+STU1541,Divya Singh,Other,23,Computer Science and Engineering,73.3,67.4,61.4,16.1,54.8,Yes,Diploma,Yes,Medium Risk
+STU1542,Neha Deshmukh,Other,22,Information Technology,82.4,68.7,58.1,13.7,65.5,No,Bachelor,Yes,Medium Risk
+STU1543,Rahul Mehta,Male,24,Information Technology,99.5,99.0,100.0,26.4,86.4,Yes,Master,Yes,Low Risk
+STU1544,Zara Trivedi,Male,21,Computer Science and Engineering,94.7,82.8,80.3,19.6,72.1,Yes,Bachelor,Yes,Low Risk
+STU1545,Deepak Kulkarni,Other,23,Master of Computer Applications,86.1,72.9,72.0,18.8,69.0,Yes,High School,No,Medium Risk
+STU1546,Suraj Mehta,Female,23,Data Science and AI,67.3,61.3,55.0,9.5,67.9,Yes,High School,No,Medium Risk
+STU1547,Aarav Bhat,Male,23,Master of Computer Applications,78.6,77.7,65.2,13.9,64.8,No,Master,No,Low Risk
+STU1548,Varun Kulkarni,Female,22,Master of Computer Applications,81.6,61.4,59.3,12.0,61.6,No,Doctorate,Yes,Medium Risk
+STU1549,Akash Nair,Male,21,Data Science and AI,79.6,67.7,64.6,13.6,73.5,Yes,Bachelor,Yes,Medium Risk
+STU1550,Akash Patel,Other,23,Information Technology,85.8,73.2,69.8,19.5,70.1,Yes,Doctorate,Yes,Low Risk
+STU1551,Harsh Pillai,Male,21,Computer Science and Engineering,72.7,74.0,59.0,16.3,72.9,Yes,Bachelor,No,Medium Risk
+STU1552,Aditi Reddy,Other,22,Computer Science and Engineering,86.8,95.4,80.0,19.3,80.7,No,Master,Yes,Low Risk
+STU1553,Arjun Rao,Male,22,Computer Science and Engineering,59.4,52.3,53.9,14.7,57.9,No,Doctorate,Yes,High Risk
+STU1554,Sneha Pillai,Other,22,Information Technology,65.1,54.0,49.7,10.2,61.3,Yes,Master,Yes,Medium Risk
+STU1555,Ishaan Bhat,Other,22,Master of Computer Applications,73.2,62.4,70.3,15.8,57.8,No,Doctorate,Yes,Medium Risk
+STU1556,Shreya Verma,Male,24,Data Science and AI,55.7,51.2,57.8,6.8,55.7,Yes,Diploma,Yes,High Risk
+STU1557,Arjun Joshi,Other,22,Data Science and AI,89.3,76.3,80.9,20.1,74.9,No,Bachelor,Yes,Low Risk
+STU1558,Aditi Kulkarni,Female,22,Data Science and AI,76.6,77.3,68.4,19.0,94.0,No,Master,Yes,Low Risk
+STU1559,Pooja Chopra,Other,23,Data Science and AI,70.7,74.0,67.5,16.1,57.4,No,Master,Yes,Medium Risk
+STU1560,Meera Pillai,Other,22,Data Science and AI,77.6,71.7,63.4,16.4,73.1,Yes,High School,Yes,Medium Risk
+STU1561,Mayank Rao,Male,24,Master of Computer Applications,67.8,55.9,54.5,15.8,61.9,No,High School,Yes,Medium Risk
+STU1562,Rahul Kumar,Female,22,Computer Science and Engineering,66.1,68.5,69.5,16.9,67.6,Yes,Master,Yes,Medium Risk
+STU1563,Sakshi Chopra,Male,21,Master of Computer Applications,71.9,68.3,52.5,14.5,69.8,Yes,High School,Yes,Low Risk
+STU1564,Rohan Das,Female,21,Information Technology,71.3,66.3,57.3,14.4,69.1,Yes,High School,Yes,Medium Risk
+STU1565,Ishaan Patel,Male,23,Data Science and AI,92.9,88.3,74.3,23.6,75.1,No,Master,Yes,Low Risk
+STU1566,Devika Mishra,Other,22,Data Science and AI,96.6,93.4,86.8,23.9,88.1,No,High School,Yes,Low Risk
+STU1567,Aditi Patel,Female,23,Master of Computer Applications,56.5,58.8,45.9,11.1,59.7,No,Doctorate,Yes,High Risk
+STU1568,Komal Joshi,Female,21,Master of Computer Applications,58.7,47.7,42.4,4.3,54.5,Yes,Bachelor,Yes,High Risk
+STU1569,Tanvi Mehta,Male,24,Computer Science and Engineering,77.4,63.8,58.4,14.6,78.5,Yes,Doctorate,Yes,Medium Risk
+STU1570,Bhavna Gupta,Other,21,Data Science and AI,90.3,75.8,72.7,19.6,70.7,Yes,Diploma,Yes,Low Risk
+STU1571,Ishaan Iyer,Female,23,Information Technology,75.6,73.8,73.6,17.6,72.4,No,Master,No,Low Risk
+STU1572,Kavya Patel,Male,22,Data Science and AI,47.3,43.0,43.1,8.7,46.0,No,Bachelor,Yes,High Risk
+STU1573,Tanvi Rao,Female,24,Master of Computer Applications,84.2,79.9,66.8,23.5,73.1,No,Bachelor,Yes,Low Risk
+STU1574,Priya Nair,Other,22,Data Science and AI,62.3,63.5,53.6,13.9,75.3,Yes,Doctorate,Yes,Medium Risk
+STU1575,Mayank Reddy,Female,22,Master of Computer Applications,72.2,69.2,77.7,19.0,65.9,No,Diploma,Yes,Low Risk
+STU1576,Rohan Sharma,Female,25,Information Technology,71.9,73.0,68.9,14.6,64.7,No,Doctorate,Yes,Medium Risk
+STU1577,Sneha Joshi,Female,24,Information Technology,61.7,63.0,46.8,11.0,51.4,Yes,Master,Yes,Medium Risk
+STU1578,Komal Kumar,Female,22,Information Technology,61.9,40.2,41.7,3.1,48.1,No,Doctorate,No,High Risk
+STU1579,Neha Menon,Female,22,Computer Science and Engineering,76.7,80.1,68.8,20.0,77.4,No,Master,Yes,Low Risk
+STU1580,Sakshi Rao,Other,21,Data Science and AI,59.3,49.1,52.8,10.3,62.5,No,Doctorate,Yes,High Risk
+STU1581,Pranav Joshi,Female,24,Information Technology,50.8,49.8,43.6,6.9,60.2,No,Master,Yes,High Risk
+STU1582,Siddharth Singh,Other,25,Computer Science and Engineering,66.4,59.6,45.9,11.0,69.3,Yes,Doctorate,Yes,Medium Risk
+STU1583,Chetan Gupta,Other,24,Master of Computer Applications,97.3,99.0,100.0,29.8,87.1,Yes,Master,Yes,Low Risk
+STU1584,Nikhil Das,Female,21,Master of Computer Applications,92.6,84.5,69.9,21.9,87.4,Yes,Master,Yes,Low Risk
+STU1585,Aishwarya Kumar,Other,23,Information Technology,73.2,70.9,62.2,15.0,73.2,No,Diploma,Yes,Medium Risk
+STU1586,Priya Pillai,Male,21,Data Science and AI,65.0,58.9,41.5,13.8,57.6,Yes,Master,Yes,Medium Risk
+STU1587,Arjun Das,Other,25,Data Science and AI,81.6,78.7,75.6,20.7,83.3,Yes,Doctorate,Yes,Low Risk
+STU1588,Suraj Mishra,Other,22,Data Science and AI,41.6,39.7,25.8,4.1,44.6,No,Doctorate,Yes,High Risk
+STU1589,Akash Chopra,Other,21,Master of Computer Applications,79.9,61.5,62.3,9.7,67.3,No,High School,Yes,Medium Risk
+STU1590,Pranav Pillai,Other,21,Information Technology,66.7,59.2,60.7,13.5,66.6,No,Diploma,Yes,Medium Risk
+STU1591,Mayank Verma,Other,22,Data Science and AI,70.2,65.4,70.8,15.2,62.3,No,Bachelor,Yes,Medium Risk
+STU1592,Varun Singh,Male,22,Master of Computer Applications,87.8,85.2,89.1,20.5,75.6,No,Bachelor,Yes,Low Risk
+STU1593,Pooja Pandey,Other,22,Computer Science and Engineering,99.5,97.5,79.5,19.6,90.9,Yes,Master,Yes,Low Risk
+STU1594,Siddharth Mehta,Female,21,Computer Science and Engineering,75.2,65.8,54.0,12.1,62.4,No,Bachelor,Yes,Medium Risk
+STU1595,Aditi Menon,Male,23,Information Technology,95.1,95.2,92.1,27.7,92.2,No,Master,Yes,Low Risk
+STU1596,Deepak Singh,Other,21,Computer Science and Engineering,77.3,64.9,74.0,14.3,61.8,Yes,Bachelor,Yes,Low Risk
+STU1597,Rohan Joshi,Female,22,Computer Science and Engineering,87.1,65.2,74.9,17.7,64.8,Yes,Doctorate,Yes,Low Risk
+STU1598,Abhishek Chopra,Female,21,Master of Computer Applications,79.6,79.4,72.3,19.8,75.7,No,Master,Yes,Low Risk
+STU1599,Vikram Joshi,Male,21,Information Technology,92.6,91.6,77.2,23.4,90.8,No,High School,Yes,Low Risk
+STU1600,Gaurav Sharma,Female,22,Master of Computer Applications,72.1,53.0,57.4,16.3,62.8,Yes,Diploma,No,Medium Risk
+STU1601,Pranav Pandey,Male,22,Computer Science and Engineering,97.6,95.1,93.1,25.8,82.4,Yes,Bachelor,No,Low Risk
+STU1602,Devika Bose,Female,21,Computer Science and Engineering,94.3,86.3,76.8,20.3,82.0,Yes,Master,No,Low Risk
+STU1603,Meera Gupta,Other,22,Data Science and AI,73.0,60.4,58.3,15.6,74.7,No,Master,Yes,Medium Risk
+STU1604,Aditi Saxena,Other,22,Computer Science and Engineering,82.8,82.2,69.3,18.7,74.8,No,Master,Yes,Low Risk
+STU1605,Karan Bose,Female,22,Master of Computer Applications,73.4,61.9,64.4,14.5,66.0,Yes,Diploma,Yes,Medium Risk
+STU1606,Nikhil Iyer,Other,22,Master of Computer Applications,85.4,74.0,62.5,11.7,85.1,No,Doctorate,Yes,Low Risk
+STU1607,Divya Mishra,Male,22,Information Technology,63.0,56.3,44.3,10.3,62.2,No,Bachelor,Yes,Medium Risk
+STU1608,Neha Das,Male,22,Information Technology,66.7,47.2,49.8,8.8,63.0,No,Master,Yes,High Risk
+STU1609,Bhavna Kulkarni,Female,22,Data Science and AI,74.4,61.0,58.1,12.1,62.7,No,Doctorate,Yes,Medium Risk
+STU1610,Suraj Trivedi,Male,22,Information Technology,77.3,79.5,71.6,18.0,64.6,No,Bachelor,Yes,Medium Risk
+STU1611,Zara Deshmukh,Male,22,Information Technology,77.1,68.6,67.3,15.6,70.6,No,Doctorate,Yes,Medium Risk
+STU1612,Karan Patel,Other,22,Computer Science and Engineering,95.1,75.9,73.7,18.4,71.8,Yes,Bachelor,Yes,Low Risk
+STU1613,Gaurav Nair,Female,22,Master of Computer Applications,76.7,68.9,70.9,17.4,68.7,Yes,Diploma,Yes,Medium Risk
+STU1614,Siddharth Bhat,Male,22,Data Science and AI,65.4,56.5,45.6,15.0,66.8,Yes,Master,Yes,Medium Risk
+STU1615,Komal Kumar,Other,24,Data Science and AI,46.4,42.6,41.4,9.1,56.3,No,Master,Yes,High Risk
+STU1616,Meera Menon,Other,24,Computer Science and Engineering,76.3,65.7,54.5,11.9,65.1,No,Doctorate,Yes,Medium Risk
+STU1617,Manish Menon,Female,21,Computer Science and Engineering,57.1,66.5,59.6,16.9,79.7,Yes,Diploma,No,High Risk
+STU1618,Sakshi Das,Other,23,Master of Computer Applications,66.7,65.2,51.1,13.7,64.0,No,Bachelor,Yes,Medium Risk
+STU1619,Aarav Menon,Male,21,Computer Science and Engineering,94.7,94.5,69.8,19.9,71.7,No,Master,Yes,Low Risk
+STU1620,Devika Pandey,Other,22,Data Science and AI,56.6,51.7,46.3,5.9,71.6,No,Master,Yes,High Risk
+STU1621,Aishwarya Bose,Other,25,Data Science and AI,93.6,75.2,84.1,19.8,60.7,Yes,Master,No,Low Risk
+STU1622,Manish Patel,Other,22,Master of Computer Applications,60.4,40.5,26.0,5.9,47.9,No,Diploma,Yes,High Risk
+STU1623,Rhea Verma,Female,22,Computer Science and Engineering,91.6,99.0,85.9,27.6,86.7,Yes,Doctorate,Yes,Low Risk
+STU1624,Rhea Gupta,Female,21,Data Science and AI,84.9,70.5,56.3,14.8,74.0,No,Doctorate,Yes,Low Risk
+STU1625,Aniket Singh,Other,22,Master of Computer Applications,48.6,50.3,53.9,12.7,53.3,No,Bachelor,Yes,High Risk
+STU1626,Chetan Chopra,Other,21,Master of Computer Applications,73.7,62.4,52.1,19.8,65.9,No,Master,Yes,Medium Risk
+STU1627,Chetan Reddy,Female,21,Master of Computer Applications,52.7,51.2,48.1,11.6,56.5,No,Diploma,Yes,High Risk
+STU1628,Rohan Verma,Female,21,Information Technology,59.4,54.2,40.7,11.8,68.4,Yes,Bachelor,Yes,High Risk
+STU1629,Deepak Das,Male,23,Computer Science and Engineering,64.7,41.8,39.6,5.8,55.1,No,Diploma,Yes,High Risk
+STU1630,Karan Bhat,Female,22,Data Science and AI,46.8,45.6,25.8,3.2,55.8,Yes,Diploma,No,High Risk
+STU1631,Mayank Kumar,Male,23,Computer Science and Engineering,63.2,31.2,31.7,3.0,44.8,No,High School,Yes,High Risk
+STU1632,Harsh Chopra,Other,22,Information Technology,63.3,60.9,52.1,11.2,66.6,No,Doctorate,Yes,Medium Risk
+STU1633,Chetan Gupta,Female,22,Information Technology,75.2,72.2,58.7,15.0,78.0,No,Bachelor,Yes,Medium Risk
+STU1634,Harsh Iyer,Other,22,Master of Computer Applications,85.5,75.6,77.1,22.3,70.3,No,Diploma,Yes,Medium Risk
+STU1635,Tanvi Verma,Female,22,Computer Science and Engineering,99.5,95.4,92.1,27.9,87.8,Yes,Diploma,Yes,Low Risk
+STU1636,Pranav Kumar,Other,22,Information Technology,79.7,53.6,58.5,12.3,56.0,No,Diploma,Yes,Medium Risk
+STU1637,Suraj Menon,Male,21,Information Technology,85.5,87.0,71.2,18.5,77.7,No,Master,Yes,Low Risk
+STU1638,Sneha Das,Male,22,Master of Computer Applications,70.3,73.8,67.0,16.2,69.2,No,Master,Yes,Medium Risk
+STU1639,Aniket Saxena,Female,22,Information Technology,66.7,66.3,52.4,14.5,69.8,No,Master,Yes,Medium Risk
+STU1640,Aishwarya Joshi,Other,23,Master of Computer Applications,81.3,80.1,71.8,22.3,81.9,Yes,High School,Yes,Low Risk
+STU1641,Zara Kulkarni,Other,21,Information Technology,88.5,75.2,77.4,18.1,72.0,No,High School,Yes,Low Risk
+STU1642,Chetan Mehta,Male,22,Data Science and AI,78.3,76.9,67.4,16.7,74.3,Yes,Diploma,Yes,Medium Risk
+STU1643,Aishwarya Iyer,Female,22,Information Technology,79.9,82.6,88.1,21.6,82.4,No,Bachelor,Yes,Low Risk
+STU1644,Devika Trivedi,Male,22,Data Science and AI,77.4,79.7,82.9,23.9,71.1,No,Bachelor,No,Low Risk
+STU1645,Ananya Verma,Male,21,Data Science and AI,63.2,52.8,59.0,7.4,59.9,No,High School,Yes,Medium Risk
+STU1646,Gaurav Gupta,Female,22,Data Science and AI,70.5,68.1,72.9,12.4,65.5,Yes,High School,Yes,Medium Risk
+STU1647,Varun Reddy,Other,21,Computer Science and Engineering,57.4,41.9,40.4,3.7,40.0,No,Bachelor,Yes,High Risk
+STU1648,Manish Iyer,Male,22,Information Technology,72.6,72.5,65.5,18.8,63.4,No,Bachelor,Yes,Low Risk
+STU1649,Deepak Chopra,Other,21,Computer Science and Engineering,61.2,55.2,48.0,7.1,62.0,No,High School,Yes,High Risk
+STU1650,Suraj Kulkarni,Female,23,Computer Science and Engineering,99.5,96.0,95.7,22.2,96.7,Yes,Master,Yes,Low Risk
+STU1651,Deepak Bhat,Male,21,Master of Computer Applications,66.6,60.7,56.8,11.6,67.0,Yes,Diploma,Yes,Medium Risk
+STU1652,Abhishek Patel,Male,21,Computer Science and Engineering,83.9,72.4,71.9,17.5,65.6,Yes,Doctorate,Yes,Medium Risk
+STU1653,Vikram Sharma,Male,24,Information Technology,81.6,67.7,54.7,15.2,67.4,No,High School,Yes,Medium Risk
+STU1654,Varun Bhat,Male,23,Data Science and AI,73.8,68.1,71.9,19.2,72.3,No,High School,Yes,Medium Risk
+STU1655,Pooja Mehta,Male,22,Master of Computer Applications,79.7,74.9,75.7,15.5,70.0,No,High School,Yes,Medium Risk
+STU1656,Sakshi Chopra,Female,22,Computer Science and Engineering,85.3,78.3,86.5,25.2,73.5,No,Master,Yes,Low Risk
+STU1657,Ishaan Kulkarni,Other,24,Computer Science and Engineering,61.8,46.7,32.9,3.9,61.9,No,High School,Yes,Medium Risk
+STU1658,Bhavna Trivedi,Male,21,Computer Science and Engineering,79.4,81.1,72.1,18.8,83.0,Yes,Master,No,Low Risk
+STU1659,Shreya Saxena,Male,21,Computer Science and Engineering,45.5,36.9,45.9,7.6,40.0,Yes,Master,Yes,High Risk
+STU1660,Mayank Pillai,Female,21,Computer Science and Engineering,53.0,37.5,46.9,6.3,49.8,Yes,High School,Yes,High Risk
+STU1661,Divya Kumar,Male,22,Data Science and AI,77.2,67.6,63.5,11.7,61.9,No,Bachelor,Yes,Medium Risk
+STU1662,Varun Joshi,Male,21,Computer Science and Engineering,82.5,62.3,54.9,14.2,53.6,No,Bachelor,Yes,Medium Risk
+STU1663,Deepak Nair,Other,21,Information Technology,50.9,46.7,49.4,10.4,47.0,Yes,High School,Yes,High Risk
+STU1664,Rohan Reddy,Other,22,Computer Science and Engineering,77.8,78.7,69.0,19.0,81.7,Yes,Master,Yes,Medium Risk
+STU1665,Rhea Kulkarni,Male,22,Computer Science and Engineering,88.4,83.2,86.3,23.9,66.9,Yes,Master,Yes,Low Risk
+STU1666,Sneha Singh,Male,24,Data Science and AI,70.8,68.4,63.5,17.7,71.1,Yes,Doctorate,Yes,Medium Risk
+STU1667,Arjun Pandey,Male,24,Information Technology,97.1,74.3,79.2,17.6,71.5,No,Bachelor,Yes,Low Risk
+STU1668,Ishaan Mehta,Other,24,Data Science and AI,75.6,67.4,60.0,14.9,55.4,Yes,Bachelor,Yes,Medium Risk
+STU1669,Chetan Pillai,Male,22,Data Science and AI,56.8,38.6,29.2,2.7,49.3,Yes,High School,Yes,High Risk
+STU1670,Aditi Trivedi,Male,23,Master of Computer Applications,66.1,59.9,58.1,9.1,60.6,Yes,Bachelor,No,Medium Risk
+STU1671,Nikhil Verma,Male,21,Data Science and AI,84.2,61.1,57.8,10.8,57.7,No,Doctorate,Yes,Medium Risk
+STU1672,Rhea Kulkarni,Other,24,Data Science and AI,81.9,83.2,71.0,18.6,79.7,Yes,Master,Yes,Low Risk
+STU1673,Suraj Patel,Other,23,Computer Science and Engineering,93.4,85.2,87.6,21.3,75.3,Yes,Bachelor,Yes,Low Risk
+STU1674,Deepak Rao,Male,22,Computer Science and Engineering,55.9,61.5,38.9,10.5,66.7,Yes,Diploma,Yes,High Risk
+STU1675,Chetan Joshi,Female,23,Master of Computer Applications,99.5,92.2,99.2,25.4,84.2,No,Bachelor,Yes,Low Risk
+STU1676,Varun Saxena,Male,24,Master of Computer Applications,99.5,89.8,87.6,27.2,89.1,No,Diploma,Yes,Low Risk
+STU1677,Deepak Bose,Male,22,Data Science and AI,63.1,52.6,47.2,10.7,55.8,Yes,Doctorate,Yes,Medium Risk
+STU1678,Komal Verma,Female,25,Computer Science and Engineering,85.4,78.1,74.3,18.8,78.4,Yes,High School,No,Low Risk
+STU1679,Aarav Bhat,Male,23,Master of Computer Applications,89.4,70.2,64.1,11.4,73.8,Yes,Diploma,Yes,Medium Risk
+STU1680,Aishwarya Chopra,Other,22,Information Technology,62.3,50.1,54.3,7.4,47.3,Yes,Diploma,Yes,Medium Risk
+STU1681,Siddharth Kumar,Other,22,Information Technology,74.2,64.4,60.9,12.8,62.3,Yes,High School,Yes,Low Risk
+STU1682,Aditi Joshi,Female,25,Information Technology,50.7,51.4,50.5,13.5,53.1,No,Doctorate,Yes,High Risk
+STU1683,Arjun Iyer,Other,21,Master of Computer Applications,69.2,80.7,64.8,19.9,80.3,No,Master,Yes,Medium Risk
+STU1684,Zara Pandey,Female,22,Master of Computer Applications,64.5,63.2,60.3,13.9,62.6,No,Master,Yes,Medium Risk
+STU1685,Harsh Gupta,Female,25,Computer Science and Engineering,74.6,63.9,58.5,13.6,71.7,No,Bachelor,Yes,Medium Risk
+STU1686,Divya Trivedi,Other,22,Master of Computer Applications,89.3,81.9,90.0,24.7,76.8,Yes,Diploma,No,Low Risk
+STU1687,Aniket Sharma,Male,21,Master of Computer Applications,72.4,66.7,57.9,17.0,65.7,No,Diploma,No,Medium Risk
+STU1688,Akash Menon,Female,22,Data Science and AI,70.1,64.3,45.3,10.7,69.4,No,Diploma,Yes,Medium Risk
+STU1689,Meera Verma,Other,22,Data Science and AI,71.4,68.3,57.8,12.1,70.0,Yes,Diploma,Yes,Medium Risk
+STU1690,Sakshi Nair,Female,21,Information Technology,71.5,53.3,48.0,7.3,55.4,Yes,Bachelor,Yes,High Risk
+STU1691,Arjun Trivedi,Female,24,Master of Computer Applications,68.7,58.1,53.1,12.0,62.3,No,Doctorate,Yes,Medium Risk
+STU1692,Ananya Gupta,Male,22,Master of Computer Applications,80.6,84.8,83.7,24.1,78.5,Yes,Master,Yes,Low Risk
+STU1693,Arjun Das,Female,22,Information Technology,70.1,48.8,50.3,8.4,54.3,No,Bachelor,Yes,Medium Risk
+STU1694,Deepak Mishra,Female,23,Master of Computer Applications,89.0,78.8,84.9,20.9,73.9,Yes,Bachelor,Yes,Low Risk
+STU1695,Neha Rao,Other,21,Information Technology,59.1,58.1,54.4,16.0,60.9,No,Doctorate,Yes,High Risk
+STU1696,Pranav Das,Female,21,Data Science and AI,78.3,68.0,54.8,9.1,72.3,Yes,Diploma,Yes,Medium Risk
+STU1697,Chetan Nair,Male,21,Master of Computer Applications,63.7,72.1,55.6,20.6,62.2,No,Master,Yes,Medium Risk
+STU1698,Aditi Nair,Other,21,Information Technology,92.1,97.9,83.9,23.9,90.9,No,High School,Yes,Low Risk
+STU1699,Sanjay Sharma,Other,23,Data Science and AI,63.9,38.5,53.7,11.9,53.9,Yes,Bachelor,Yes,High Risk
+STU1700,Divya Reddy,Other,22,Computer Science and Engineering,99.5,89.9,86.7,24.6,88.0,No,Master,Yes,Low Risk
+STU1701,Aishwarya Verma,Male,21,Information Technology,99.5,99.0,89.5,24.5,89.5,Yes,High School,Yes,Low Risk
+STU1702,Akash Nair,Other,22,Data Science and AI,84.4,65.2,79.8,16.2,68.6,No,Bachelor,Yes,Medium Risk
+STU1703,Zara Saxena,Male,23,Master of Computer Applications,52.7,43.4,42.0,9.0,50.4,No,Doctorate,Yes,High Risk
+STU1704,Ishaan Kulkarni,Female,21,Master of Computer Applications,72.2,70.7,60.7,17.7,74.5,No,Doctorate,Yes,Medium Risk
+STU1705,Harsh Verma,Female,21,Computer Science and Engineering,73.7,79.3,65.3,22.7,72.8,Yes,Diploma,Yes,Low Risk
+STU1706,Rhea Iyer,Female,21,Data Science and AI,35.0,30.2,25.0,2.0,40.0,No,Bachelor,Yes,High Risk
+STU1707,Sakshi Das,Female,25,Computer Science and Engineering,91.8,85.9,87.5,16.0,76.3,No,High School,Yes,Low Risk
+STU1708,Neha Kumar,Other,22,Master of Computer Applications,85.1,73.6,64.1,13.9,79.2,Yes,Diploma,Yes,Medium Risk
+STU1709,Divya Gupta,Female,21,Data Science and AI,94.3,84.8,81.1,25.4,78.3,No,Bachelor,Yes,Low Risk
+STU1710,Tanvi Singh,Other,25,Information Technology,62.9,61.7,50.5,15.0,64.1,Yes,Diploma,Yes,Medium Risk
+STU1711,Vikram Rao,Female,22,Information Technology,66.7,60.9,58.7,8.4,68.4,No,High School,Yes,Medium Risk
+STU1712,Deepak Gupta,Other,22,Information Technology,79.2,61.5,62.4,9.1,62.5,Yes,Doctorate,No,Medium Risk
+STU1713,Akash Reddy,Female,25,Computer Science and Engineering,52.3,40.2,37.4,6.2,40.9,Yes,High School,Yes,High Risk
+STU1714,Pranav Chopra,Female,23,Master of Computer Applications,84.2,72.8,68.8,19.7,72.7,No,Bachelor,Yes,Low Risk
+STU1715,Priya Gupta,Male,23,Data Science and AI,57.1,41.8,37.5,9.7,46.8,No,Master,Yes,High Risk
+STU1716,Devika Saxena,Other,22,Computer Science and Engineering,85.9,70.4,79.4,19.5,65.0,No,High School,Yes,Low Risk
+STU1717,Zara Singh,Male,22,Master of Computer Applications,89.1,81.8,81.3,16.7,79.8,Yes,High School,Yes,Low Risk
+STU1718,Ananya Nair,Male,21,Computer Science and Engineering,81.9,70.5,75.0,12.4,78.7,No,Master,Yes,Low Risk
+STU1719,Siddharth Pillai,Other,23,Master of Computer Applications,81.9,83.3,75.1,23.9,74.8,Yes,Doctorate,Yes,Low Risk
+STU1720,Karan Iyer,Male,23,Master of Computer Applications,62.2,54.7,66.5,8.9,59.1,No,High School,Yes,Medium Risk
+STU1721,Neha Kulkarni,Female,24,Computer Science and Engineering,57.6,53.8,43.9,8.3,58.1,Yes,High School,Yes,High Risk
+STU1722,Sanjay Singh,Male,21,Data Science and AI,65.2,64.8,47.8,15.5,63.5,Yes,High School,Yes,Medium Risk
+STU1723,Manish Trivedi,Female,24,Data Science and AI,86.0,84.2,81.9,22.1,79.0,No,Master,Yes,Low Risk
+STU1724,Aditi Mehta,Other,22,Data Science and AI,98.8,99.0,86.3,33.7,94.5,No,Diploma,Yes,Low Risk
+STU1725,Shreya Reddy,Male,23,Information Technology,71.9,68.0,56.5,17.3,65.6,No,Bachelor,Yes,Medium Risk
+STU1726,Vikram Kumar,Male,24,Computer Science and Engineering,88.7,75.2,78.2,17.2,76.6,No,Bachelor,Yes,Low Risk
+STU1727,Aishwarya Bose,Other,23,Data Science and AI,77.4,82.8,66.9,23.4,78.4,No,High School,Yes,Medium Risk
+STU1728,Deepak Iyer,Female,21,Computer Science and Engineering,47.5,35.7,29.0,5.4,55.0,Yes,Master,Yes,High Risk
+STU1729,Neha Kulkarni,Other,22,Computer Science and Engineering,70.8,83.5,69.1,17.5,67.7,Yes,Doctorate,Yes,Low Risk
+STU1730,Aditi Mehta,Other,21,Information Technology,81.4,69.6,69.0,15.0,74.0,No,Master,Yes,Medium Risk
+STU1731,Chetan Menon,Female,22,Information Technology,59.3,54.6,57.7,14.5,71.5,Yes,Master,Yes,High Risk
+STU1732,Rahul Gupta,Male,21,Information Technology,77.7,78.1,89.0,21.4,69.3,No,Doctorate,Yes,Low Risk
+STU1733,Pooja Sharma,Female,24,Master of Computer Applications,79.2,56.5,56.1,9.5,62.3,Yes,Master,Yes,Medium Risk
+STU1734,Bhavna Chopra,Other,22,Computer Science and Engineering,84.6,89.0,89.2,24.3,76.1,Yes,Diploma,Yes,Low Risk
+STU1735,Divya Nair,Other,21,Computer Science and Engineering,64.4,56.4,53.5,16.2,56.2,No,Bachelor,Yes,Medium Risk
+STU1736,Chetan Saxena,Male,22,Computer Science and Engineering,84.0,74.9,63.7,18.8,79.5,No,Doctorate,Yes,Low Risk
+STU1737,Sneha Chopra,Male,22,Computer Science and Engineering,64.5,48.8,43.6,9.5,53.0,No,Diploma,Yes,High Risk
+STU1738,Karan Joshi,Other,22,Information Technology,82.3,78.2,73.1,21.3,77.9,No,Doctorate,Yes,Low Risk
+STU1739,Aditi Bhat,Other,22,Information Technology,84.5,75.0,64.1,14.0,73.2,Yes,Doctorate,Yes,Medium Risk
+STU1740,Harsh Kumar,Other,24,Computer Science and Engineering,89.5,70.7,67.5,11.0,76.4,No,Master,Yes,Medium Risk
+STU1741,Chetan Rao,Male,24,Data Science and AI,63.3,59.3,58.9,17.6,63.4,Yes,High School,Yes,Medium Risk
+STU1742,Deepak Verma,Male,22,Computer Science and Engineering,77.8,72.3,65.6,17.4,77.3,No,High School,Yes,Medium Risk
+STU1743,Bhavna Menon,Male,23,Information Technology,90.5,77.7,78.8,23.8,65.6,No,Doctorate,Yes,Low Risk
+STU1744,Neha Kumar,Female,22,Computer Science and Engineering,49.1,54.2,57.7,6.2,57.3,Yes,Bachelor,Yes,High Risk
+STU1745,Ananya Sharma,Male,24,Computer Science and Engineering,72.9,62.4,72.6,15.1,66.4,No,High School,Yes,Medium Risk
+STU1746,Bhavna Chopra,Male,23,Information Technology,83.8,80.3,77.9,20.6,77.8,Yes,Master,Yes,Low Risk
+STU1747,Karan Singh,Female,21,Information Technology,99.5,99.0,90.4,28.8,88.0,Yes,Bachelor,Yes,Low Risk
+STU1748,Ishaan Gupta,Other,21,Data Science and AI,59.2,55.5,52.8,7.8,58.7,Yes,Master,Yes,High Risk
+STU1749,Sakshi Gupta,Other,22,Information Technology,70.0,59.1,59.1,14.5,62.2,Yes,Diploma,Yes,Medium Risk
+STU1750,Karan Gupta,Female,24,Information Technology,91.3,94.5,87.4,22.9,83.4,No,Bachelor,Yes,Low Risk
+STU1751,Ishaan Gupta,Other,23,Master of Computer Applications,99.2,99.0,100.0,21.5,98.0,No,Doctorate,Yes,Low Risk
+STU1752,Suraj Trivedi,Male,23,Computer Science and Engineering,73.5,55.3,57.7,10.7,57.5,No,Doctorate,Yes,Medium Risk
+STU1753,Sakshi Deshmukh,Male,22,Master of Computer Applications,70.6,68.1,61.8,16.8,56.0,Yes,Master,Yes,Medium Risk
+STU1754,Kavya Joshi,Other,24,Master of Computer Applications,70.1,72.4,67.5,19.5,79.1,No,Diploma,Yes,Medium Risk
+STU1755,Shreya Joshi,Male,22,Master of Computer Applications,76.5,63.5,73.9,20.4,77.3,No,Bachelor,Yes,Medium Risk
+STU1756,Vikram Sharma,Female,23,Computer Science and Engineering,74.0,60.2,56.2,12.8,68.8,No,Diploma,Yes,Medium Risk
+STU1757,Arjun Chopra,Female,22,Master of Computer Applications,93.9,92.3,95.3,24.2,74.1,Yes,High School,Yes,Low Risk
+STU1758,Ananya Mehta,Female,23,Data Science and AI,85.0,68.5,67.2,17.0,65.6,No,Diploma,Yes,Medium Risk
+STU1759,Tanvi Menon,Female,22,Information Technology,99.5,86.5,82.5,26.2,81.8,Yes,Doctorate,Yes,Low Risk
+STU1760,Sneha Singh,Female,22,Computer Science and Engineering,99.5,99.0,100.0,30.4,97.8,Yes,Diploma,Yes,Low Risk
+STU1761,Vikram Patel,Male,22,Information Technology,75.0,68.0,73.7,17.0,75.5,No,High School,Yes,Medium Risk
+STU1762,Sakshi Iyer,Male,23,Master of Computer Applications,94.5,80.4,77.1,20.8,79.9,No,Bachelor,Yes,Low Risk
+STU1763,Manish Mehta,Male,22,Master of Computer Applications,86.8,90.3,72.5,23.5,83.7,No,Doctorate,Yes,Low Risk
+STU1764,Deepak Joshi,Other,21,Data Science and AI,77.8,56.0,56.8,10.9,43.7,No,High School,No,Medium Risk
+STU1765,Varun Kulkarni,Male,21,Data Science and AI,54.8,67.2,62.4,17.2,67.1,No,Diploma,Yes,High Risk
+STU1766,Ananya Singh,Female,21,Computer Science and Engineering,80.8,79.5,79.3,24.0,74.2,No,Diploma,Yes,Low Risk
+STU1767,Tanvi Bhat,Other,21,Information Technology,76.6,70.0,67.9,13.9,81.2,Yes,Bachelor,Yes,Low Risk
+STU1768,Rohan Nair,Male,23,Master of Computer Applications,50.1,40.2,40.1,4.6,53.0,No,Master,Yes,High Risk
+STU1769,Harsh Mishra,Female,24,Computer Science and Engineering,71.2,55.9,45.5,4.0,46.7,No,High School,Yes,Medium Risk
+STU1770,Siddharth Sharma,Female,25,Master of Computer Applications,86.0,79.5,66.5,21.1,83.5,No,Bachelor,Yes,Low Risk
+STU1771,Komal Menon,Male,23,Master of Computer Applications,64.0,70.9,56.5,9.8,78.1,No,High School,Yes,Medium Risk
+STU1772,Nikhil Gupta,Other,22,Information Technology,85.9,55.5,57.7,9.5,59.1,No,High School,Yes,Medium Risk
+STU1773,Abhishek Singh,Female,24,Data Science and AI,93.7,86.3,80.3,20.0,82.0,No,Master,Yes,Low Risk
+STU1774,Aishwarya Pillai,Female,21,Master of Computer Applications,76.1,69.1,72.4,19.3,67.8,Yes,Doctorate,Yes,Medium Risk
+STU1775,Sneha Gupta,Female,22,Data Science and AI,74.0,69.7,64.0,10.3,66.9,Yes,Bachelor,Yes,Medium Risk
+STU1776,Meera Das,Male,21,Information Technology,93.2,84.0,76.5,20.0,73.5,No,Master,Yes,Low Risk
+STU1777,Zara Iyer,Male,24,Information Technology,93.0,85.7,83.0,23.2,81.2,No,Doctorate,Yes,Low Risk
+STU1778,Ananya Kumar,Other,24,Master of Computer Applications,48.1,38.3,40.5,5.4,40.0,Yes,High School,Yes,High Risk
+STU1779,Shreya Mishra,Female,22,Computer Science and Engineering,94.0,91.2,81.2,24.5,86.7,No,Doctorate,Yes,Low Risk
+STU1780,Ananya Mehta,Other,23,Data Science and AI,89.6,78.4,77.5,25.0,64.8,No,Doctorate,Yes,Low Risk
+STU1781,Abhishek Trivedi,Male,21,Data Science and AI,79.3,79.5,69.8,19.8,75.7,Yes,Bachelor,Yes,Low Risk
+STU1782,Deepak Mehta,Other,22,Master of Computer Applications,57.4,45.2,44.0,7.5,56.6,No,Doctorate,Yes,High Risk
+STU1783,Harsh Pandey,Other,23,Computer Science and Engineering,59.3,48.4,39.1,6.7,57.7,No,High School,Yes,High Risk
+STU1784,Vikram Gupta,Male,21,Computer Science and Engineering,80.8,70.4,88.5,19.9,63.5,No,Diploma,Yes,Low Risk
+STU1785,Ishaan Verma,Female,22,Master of Computer Applications,81.5,75.6,67.2,13.3,67.2,No,Master,Yes,Medium Risk
+STU1786,Neha Kulkarni,Male,23,Information Technology,60.4,61.2,46.6,10.6,58.6,Yes,Bachelor,Yes,Medium Risk
+STU1787,Arjun Patel,Female,23,Data Science and AI,68.3,56.0,53.4,12.9,66.6,No,Doctorate,Yes,Medium Risk
+STU1788,Sakshi Iyer,Other,23,Data Science and AI,60.5,52.6,53.6,14.2,51.2,No,High School,Yes,Medium Risk
+STU1789,Mayank Trivedi,Other,22,Data Science and AI,91.9,93.5,83.5,23.0,87.5,No,High School,Yes,Low Risk
+STU1790,Tanvi Kumar,Male,21,Master of Computer Applications,81.6,74.5,74.4,21.7,66.7,No,High School,Yes,Medium Risk
+STU1791,Harsh Singh,Female,22,Information Technology,97.2,93.9,87.8,24.8,77.7,No,Master,Yes,Low Risk
+STU1792,Priya Mehta,Other,22,Data Science and AI,59.9,43.3,46.2,6.0,66.6,No,Doctorate,Yes,High Risk
+STU1793,Komal Menon,Male,22,Computer Science and Engineering,69.7,41.6,39.0,3.5,50.4,Yes,Bachelor,Yes,High Risk
+STU1794,Suraj Kumar,Other,22,Data Science and AI,64.1,62.5,52.6,14.4,62.4,No,High School,Yes,Medium Risk
+STU1795,Suraj Joshi,Other,22,Computer Science and Engineering,99.5,91.1,84.4,20.5,85.9,No,High School,Yes,Low Risk
+STU1796,Abhishek Iyer,Female,23,Master of Computer Applications,89.7,84.6,72.7,20.0,73.0,No,Bachelor,Yes,Low Risk
+STU1797,Rohan Rao,Female,23,Data Science and AI,65.2,56.1,40.0,12.8,59.5,Yes,High School,Yes,High Risk
+STU1798,Pooja Kumar,Female,22,Data Science and AI,86.4,85.9,85.5,21.7,79.3,No,Bachelor,Yes,Low Risk
+STU1799,Rahul Saxena,Female,23,Master of Computer Applications,91.2,87.4,70.6,23.4,89.0,No,Diploma,Yes,Low Risk
+STU1800,Vikram Reddy,Female,21,Data Science and AI,77.6,68.1,73.2,16.5,71.5,No,Doctorate,No,Low Risk
+STU1801,Siddharth Verma,Other,24,Computer Science and Engineering,75.4,64.9,52.0,10.4,68.0,Yes,High School,Yes,Medium Risk
+STU1802,Rohan Bhat,Other,22,Data Science and AI,41.5,33.4,25.0,2.6,42.4,Yes,Diploma,No,High Risk
+STU1803,Bhavna Trivedi,Male,21,Computer Science and Engineering,72.1,71.3,71.5,13.8,72.0,Yes,Diploma,Yes,Medium Risk
+STU1804,Neha Verma,Male,23,Master of Computer Applications,49.9,53.0,45.5,11.0,57.4,Yes,Master,Yes,High Risk
+STU1805,Ananya Chopra,Other,24,Computer Science and Engineering,72.1,80.9,63.0,16.4,75.0,No,Bachelor,Yes,Medium Risk
+STU1806,Siddharth Das,Other,22,Data Science and AI,77.9,73.1,72.2,16.2,77.4,No,High School,Yes,Low Risk
+STU1807,Aditi Nair,Female,22,Data Science and AI,99.5,98.2,90.4,26.7,91.1,Yes,Doctorate,Yes,Low Risk
+STU1808,Vikram Gupta,Female,22,Information Technology,82.9,78.6,67.8,22.8,71.2,No,Bachelor,Yes,Low Risk
+STU1809,Manish Iyer,Other,23,Master of Computer Applications,60.0,52.6,51.2,9.8,63.7,Yes,Bachelor,Yes,High Risk
+STU1810,Aditi Mehta,Male,23,Computer Science and Engineering,74.0,47.1,36.8,8.2,54.4,Yes,Doctorate,Yes,High Risk
+STU1811,Nikhil Nair,Other,21,Computer Science and Engineering,70.2,65.3,63.3,13.9,61.7,Yes,Diploma,Yes,Medium Risk
+STU1812,Rahul Kulkarni,Female,23,Master of Computer Applications,76.8,71.6,62.5,16.8,64.6,Yes,High School,Yes,Medium Risk
+STU1813,Abhishek Kumar,Other,22,Computer Science and Engineering,78.9,71.3,69.8,17.0,77.3,Yes,Doctorate,Yes,Medium Risk
+STU1814,Aarav Nair,Female,21,Information Technology,86.2,63.4,65.8,20.3,81.0,Yes,Bachelor,No,Medium Risk
+STU1815,Varun Mehta,Female,22,Data Science and AI,98.3,98.7,93.3,31.5,89.0,No,Bachelor,Yes,Low Risk
+STU1816,Nikhil Das,Female,22,Data Science and AI,62.5,51.0,55.4,10.3,45.0,Yes,Doctorate,No,High Risk
+STU1817,Divya Sharma,Other,21,Information Technology,67.3,70.5,58.1,18.4,76.9,No,Doctorate,Yes,Medium Risk
+STU1818,Komal Deshmukh,Female,21,Information Technology,77.2,69.3,54.0,15.5,76.7,Yes,High School,Yes,Low Risk
+STU1819,Abhishek Patel,Female,22,Information Technology,51.7,33.4,33.4,2.0,56.4,Yes,Bachelor,Yes,High Risk
+STU1820,Rahul Iyer,Other,23,Information Technology,98.9,91.1,91.1,27.4,80.5,Yes,Diploma,Yes,Low Risk
+STU1821,Kavya Pandey,Male,22,Master of Computer Applications,70.6,54.1,57.3,15.2,56.5,Yes,Doctorate,Yes,Medium Risk
+STU1822,Suraj Pillai,Female,23,Computer Science and Engineering,76.5,68.7,63.5,15.6,61.7,No,High School,Yes,Medium Risk
+STU1823,Aishwarya Rao,Female,21,Data Science and AI,95.0,81.4,86.8,21.9,82.5,No,Master,Yes,Low Risk
+STU1824,Sneha Saxena,Male,22,Computer Science and Engineering,81.1,79.2,67.7,17.7,86.0,No,Bachelor,Yes,Low Risk
+STU1825,Pooja Pillai,Other,21,Data Science and AI,88.3,81.2,73.8,20.5,70.2,Yes,Bachelor,No,Low Risk
+STU1826,Aniket Rao,Male,22,Computer Science and Engineering,70.5,59.9,50.2,13.6,74.8,No,Bachelor,Yes,Medium Risk
+STU1827,Divya Menon,Male,23,Information Technology,73.6,61.6,61.0,15.1,58.8,No,Doctorate,No,Medium Risk
+STU1828,Meera Pillai,Female,22,Master of Computer Applications,56.0,49.3,46.6,8.3,48.9,No,Diploma,No,High Risk
+STU1829,Shreya Nair,Other,22,Information Technology,61.3,60.7,62.1,10.7,64.2,No,Master,Yes,Medium Risk
+STU1830,Sanjay Chopra,Female,22,Information Technology,73.3,62.9,72.3,10.0,72.5,No,Master,Yes,Medium Risk
+STU1831,Gaurav Menon,Male,23,Master of Computer Applications,87.4,76.4,75.8,18.2,80.0,Yes,Master,Yes,Low Risk
+STU1832,Neha Pandey,Male,22,Data Science and AI,73.2,63.3,60.8,14.9,67.7,No,Doctorate,Yes,Medium Risk
+STU1833,Rohan Bose,Male,21,Computer Science and Engineering,83.4,76.4,76.6,16.6,72.2,Yes,Diploma,Yes,Low Risk
+STU1834,Neha Joshi,Female,22,Data Science and AI,68.2,69.7,53.6,9.4,60.7,Yes,Diploma,Yes,Medium Risk
+STU1835,Sakshi Bhat,Male,22,Master of Computer Applications,80.3,85.5,70.8,20.8,80.2,Yes,Master,Yes,Low Risk
+STU1836,Sanjay Kulkarni,Male,21,Information Technology,84.7,76.2,74.1,21.0,80.5,No,High School,Yes,Low Risk
+STU1837,Aarav Das,Female,23,Computer Science and Engineering,53.2,58.6,59.4,16.0,57.0,Yes,Diploma,Yes,High Risk
+STU1838,Harsh Gupta,Female,21,Master of Computer Applications,99.1,98.7,95.8,27.1,98.0,No,Diploma,Yes,Low Risk
+STU1839,Mayank Bose,Other,24,Data Science and AI,56.4,51.0,37.4,11.5,50.3,Yes,Master,Yes,High Risk
+STU1840,Varun Menon,Female,23,Master of Computer Applications,37.6,36.8,25.0,2.0,46.8,Yes,High School,Yes,High Risk
+STU1841,Chetan Reddy,Other,22,Information Technology,82.6,77.7,72.0,20.8,68.2,No,High School,Yes,Low Risk
+STU1842,Sakshi Pandey,Male,21,Master of Computer Applications,71.8,56.2,59.6,12.6,70.1,No,High School,Yes,Medium Risk
+STU1843,Pranav Nair,Other,24,Information Technology,71.4,63.9,64.7,18.2,55.9,Yes,Bachelor,Yes,Medium Risk
+STU1844,Ishaan Singh,Female,21,Information Technology,74.1,78.1,71.9,16.0,82.4,Yes,Diploma,Yes,Low Risk
+STU1845,Arjun Verma,Female,23,Information Technology,79.6,67.3,66.3,18.1,60.5,No,Master,Yes,Medium Risk
+STU1846,Bhavna Deshmukh,Other,21,Information Technology,73.2,70.2,52.7,11.2,72.3,Yes,Master,No,Medium Risk
+STU1847,Ishaan Joshi,Female,24,Information Technology,82.5,60.5,65.0,12.6,68.2,No,Diploma,Yes,Medium Risk
+STU1848,Manish Mehta,Male,22,Computer Science and Engineering,73.0,68.5,58.1,19.2,57.3,No,Diploma,Yes,Medium Risk
+STU1849,Ishaan Reddy,Other,21,Master of Computer Applications,79.8,74.0,68.2,20.3,77.2,No,Doctorate,Yes,Low Risk
+STU1850,Aniket Gupta,Male,25,Information Technology,90.2,71.3,66.6,15.4,69.7,No,High School,Yes,Low Risk
+STU1851,Sneha Kulkarni,Female,23,Master of Computer Applications,73.6,69.2,49.4,11.1,67.9,Yes,Doctorate,Yes,Medium Risk
+STU1852,Ananya Pillai,Male,21,Master of Computer Applications,89.9,71.0,66.9,18.0,78.6,No,High School,No,Low Risk
+STU1853,Gaurav Bose,Female,22,Data Science and AI,60.4,58.2,49.6,10.9,62.2,No,High School,Yes,Medium Risk
+STU1854,Devika Iyer,Female,23,Computer Science and Engineering,84.4,87.9,81.3,21.1,67.6,No,Diploma,Yes,Low Risk
+STU1855,Aarav Rao,Female,22,Master of Computer Applications,96.3,84.0,85.4,20.3,69.9,Yes,Doctorate,Yes,Low Risk
+STU1856,Rahul Deshmukh,Other,22,Computer Science and Engineering,76.3,75.8,63.3,16.1,68.4,Yes,Master,Yes,Medium Risk
+STU1857,Divya Pandey,Other,24,Master of Computer Applications,75.6,69.1,61.7,19.0,63.6,No,Bachelor,Yes,Medium Risk
+STU1858,Gaurav Singh,Female,22,Computer Science and Engineering,52.8,44.7,44.4,2.0,45.9,Yes,Doctorate,Yes,High Risk
+STU1859,Neha Iyer,Other,23,Computer Science and Engineering,99.5,87.9,84.8,20.9,84.7,Yes,Bachelor,Yes,Low Risk
+STU1860,Tanvi Rao,Male,22,Master of Computer Applications,71.0,55.9,48.4,13.1,56.7,No,Doctorate,Yes,Medium Risk
+STU1861,Aishwarya Reddy,Other,22,Data Science and AI,84.3,72.8,68.9,17.8,76.5,Yes,Bachelor,Yes,Low Risk
+STU1862,Pranav Sharma,Male,23,Master of Computer Applications,78.3,76.8,67.6,14.6,78.5,Yes,High School,Yes,Low Risk
+STU1863,Harsh Pillai,Female,23,Computer Science and Engineering,83.0,74.1,65.2,12.2,68.5,Yes,High School,Yes,Low Risk
+STU1864,Aniket Patel,Other,22,Master of Computer Applications,82.3,65.7,67.7,14.7,62.3,Yes,Bachelor,Yes,Medium Risk
+STU1865,Pooja Das,Female,25,Information Technology,83.5,83.2,75.7,19.3,75.6,No,Master,Yes,Low Risk
+STU1866,Ananya Singh,Male,23,Master of Computer Applications,65.0,43.3,37.2,6.9,61.4,No,Bachelor,Yes,High Risk
+STU1867,Siddharth Pillai,Female,25,Data Science and AI,98.4,91.3,82.6,27.9,98.0,No,High School,Yes,Low Risk
+STU1868,Divya Verma,Male,23,Computer Science and Engineering,72.7,63.4,57.7,12.7,62.0,Yes,Diploma,Yes,Medium Risk
+STU1869,Sanjay Chopra,Female,22,Information Technology,69.9,65.7,61.0,13.3,66.8,No,High School,Yes,Medium Risk
+STU1870,Siddharth Joshi,Male,22,Master of Computer Applications,86.8,67.6,62.7,15.7,59.0,Yes,Master,No,Medium Risk
+STU1871,Suraj Das,Female,22,Data Science and AI,70.2,56.9,57.2,9.6,55.6,No,Master,Yes,Medium Risk
+STU1872,Tanvi Kulkarni,Male,23,Master of Computer Applications,67.1,67.2,62.1,15.6,77.2,No,Diploma,Yes,Medium Risk
+STU1873,Ananya Gupta,Male,21,Data Science and AI,70.7,70.3,52.4,6.2,69.6,No,Doctorate,Yes,Medium Risk
+STU1874,Abhishek Trivedi,Other,23,Data Science and AI,88.4,71.9,68.0,16.4,74.8,Yes,Diploma,Yes,Low Risk
+STU1875,Mayank Mehta,Female,22,Master of Computer Applications,76.8,65.7,66.2,18.3,70.0,Yes,Diploma,Yes,Low Risk
+STU1876,Abhishek Menon,Male,23,Data Science and AI,73.8,71.3,67.5,17.8,70.1,No,Master,Yes,Low Risk
+STU1877,Akash Patel,Female,22,Information Technology,76.7,73.6,70.8,20.4,83.6,Yes,High School,Yes,Low Risk
+STU1878,Bhavna Saxena,Other,21,Computer Science and Engineering,59.6,60.2,59.0,14.8,58.6,Yes,Bachelor,No,High Risk
+STU1879,Bhavna Pandey,Other,21,Master of Computer Applications,80.9,70.5,73.6,21.2,70.7,No,Master,Yes,Low Risk
+STU1880,Pranav Menon,Female,22,Data Science and AI,60.4,65.9,53.7,12.2,56.3,No,Diploma,Yes,Medium Risk
+STU1881,Devika Deshmukh,Male,22,Master of Computer Applications,94.4,82.9,89.8,20.6,85.6,No,Diploma,Yes,Low Risk
+STU1882,Aniket Menon,Female,25,Computer Science and Engineering,99.5,88.2,89.8,26.6,85.9,No,High School,Yes,Low Risk
+STU1883,Aishwarya Joshi,Male,22,Information Technology,72.1,63.8,57.5,5.2,55.8,No,Bachelor,Yes,Medium Risk
+STU1884,Ananya Pandey,Male,21,Data Science and AI,79.7,67.8,72.6,17.7,60.6,Yes,Master,Yes,Medium Risk
+STU1885,Pranav Patel,Female,23,Data Science and AI,70.0,70.6,59.7,18.4,66.9,Yes,Doctorate,Yes,Medium Risk
+STU1886,Vikram Patel,Female,22,Data Science and AI,70.1,58.7,56.1,6.9,55.5,Yes,Bachelor,Yes,High Risk
+STU1887,Gaurav Menon,Other,23,Master of Computer Applications,69.0,59.8,50.7,7.0,46.2,Yes,High School,Yes,Medium Risk
+STU1888,Suraj Bose,Male,23,Master of Computer Applications,86.6,76.5,68.2,17.2,81.8,No,High School,Yes,Low Risk
+STU1889,Komal Deshmukh,Other,24,Information Technology,64.5,64.3,53.6,15.2,66.6,No,Doctorate,Yes,Medium Risk
+STU1890,Devika Reddy,Other,22,Data Science and AI,81.3,65.7,53.1,15.2,64.5,No,Bachelor,Yes,Medium Risk
+STU1891,Siddharth Verma,Male,22,Data Science and AI,62.3,61.4,55.7,10.7,65.2,No,Bachelor,Yes,Medium Risk
+STU1892,Devika Deshmukh,Other,22,Data Science and AI,65.3,61.8,56.6,12.9,69.7,No,Bachelor,Yes,Medium Risk
+STU1893,Vikram Singh,Male,22,Computer Science and Engineering,70.7,64.1,55.6,12.6,65.3,No,High School,Yes,Medium Risk
+STU1894,Sanjay Chopra,Other,22,Information Technology,99.5,96.0,93.0,31.1,87.2,No,Doctorate,Yes,Low Risk
+STU1895,Bhavna Chopra,Other,23,Master of Computer Applications,85.1,77.0,77.9,16.3,79.2,Yes,High School,No,Low Risk
+STU1896,Manish Menon,Male,22,Data Science and AI,79.1,66.2,71.7,17.8,65.9,No,High School,Yes,Medium Risk
+STU1897,Priya Deshmukh,Male,25,Computer Science and Engineering,78.5,54.8,58.4,8.3,62.6,No,High School,Yes,Medium Risk
+STU1898,Suraj Reddy,Female,25,Computer Science and Engineering,67.2,53.8,52.2,6.4,61.8,No,Bachelor,Yes,Medium Risk
+STU1899,Divya Bose,Male,21,Master of Computer Applications,83.2,67.7,76.8,18.9,76.3,No,Master,Yes,Low Risk
+STU1900,Zara Pillai,Other,22,Computer Science and Engineering,83.5,81.9,68.0,18.3,76.2,No,Master,Yes,Low Risk
+STU1901,Aarav Pandey,Other,21,Master of Computer Applications,72.1,54.9,56.9,10.9,65.6,No,Doctorate,Yes,Medium Risk
+STU1902,Varun Trivedi,Female,25,Computer Science and Engineering,52.2,37.1,29.2,2.0,47.2,No,Doctorate,Yes,High Risk
+STU1903,Meera Saxena,Male,23,Master of Computer Applications,90.7,69.7,68.4,16.7,71.1,No,Master,Yes,Medium Risk
+STU1904,Komal Deshmukh,Female,25,Data Science and AI,89.2,73.2,61.2,16.5,63.2,No,Master,Yes,Low Risk
+STU1905,Komal Bhat,Male,24,Information Technology,84.9,75.0,75.8,17.5,68.3,No,Master,Yes,Medium Risk
+STU1906,Sanjay Rao,Female,22,Computer Science and Engineering,58.6,61.8,44.9,11.1,60.2,No,Diploma,Yes,High Risk
+STU1907,Tanvi Deshmukh,Other,23,Information Technology,65.9,49.3,60.1,12.4,69.7,Yes,Doctorate,Yes,Medium Risk
+STU1908,Sakshi Bhat,Other,24,Computer Science and Engineering,69.0,83.2,75.5,21.9,84.0,Yes,Diploma,Yes,Low Risk
+STU1909,Nikhil Deshmukh,Other,21,Information Technology,86.3,73.6,66.2,15.6,64.6,Yes,Bachelor,Yes,Low Risk
+STU1910,Ishaan Bhat,Other,22,Computer Science and Engineering,93.8,93.5,99.4,30.6,79.6,No,Doctorate,Yes,Low Risk
+STU1911,Chetan Bhat,Other,23,Information Technology,92.6,91.4,79.3,20.7,84.3,No,High School,Yes,Low Risk
+STU1912,Shreya Mishra,Female,21,Data Science and AI,62.9,55.7,55.5,8.8,62.8,Yes,Doctorate,Yes,Medium Risk
+STU1913,Rhea Bose,Male,21,Master of Computer Applications,82.1,74.6,73.7,13.3,63.9,No,High School,No,Medium Risk
+STU1914,Sneha Kumar,Male,23,Master of Computer Applications,84.0,68.6,66.0,18.6,71.3,No,Diploma,Yes,Low Risk
+STU1915,Rahul Gupta,Female,25,Information Technology,75.7,58.7,48.5,13.5,66.3,No,Diploma,Yes,Medium Risk
+STU1916,Ananya Bhat,Female,25,Computer Science and Engineering,72.4,56.0,47.8,5.8,52.5,No,Doctorate,Yes,Medium Risk
+STU1917,Akash Chopra,Female,21,Master of Computer Applications,86.1,64.1,70.8,14.3,61.4,No,Doctorate,Yes,Low Risk
+STU1918,Devika Nair,Other,21,Data Science and AI,84.1,71.6,57.4,18.3,74.9,No,Diploma,Yes,Low Risk
+STU1919,Aniket Bhat,Female,21,Master of Computer Applications,77.9,65.2,66.9,18.0,63.7,No,Master,Yes,Medium Risk
+STU1920,Sneha Bose,Other,21,Information Technology,83.8,82.4,77.4,24.3,75.7,No,Doctorate,Yes,Low Risk
+STU1921,Ananya Sharma,Other,22,Information Technology,72.6,65.6,62.6,13.0,54.1,Yes,Diploma,Yes,Medium Risk
+STU1922,Mayank Das,Male,22,Information Technology,97.8,91.0,87.3,23.7,87.4,Yes,Doctorate,Yes,Low Risk
+STU1923,Chetan Saxena,Other,22,Computer Science and Engineering,61.3,57.9,39.2,9.0,50.3,No,Diploma,Yes,High Risk
+STU1924,Rhea Das,Male,23,Master of Computer Applications,78.1,60.4,71.2,16.8,57.9,Yes,Diploma,Yes,Medium Risk
+STU1925,Meera Saxena,Other,21,Master of Computer Applications,66.1,66.2,69.5,13.8,69.1,Yes,Master,No,Medium Risk
+STU1926,Akash Bose,Female,22,Information Technology,77.4,79.4,77.4,21.3,71.9,Yes,Diploma,Yes,Low Risk
+STU1927,Manish Trivedi,Female,21,Master of Computer Applications,81.7,91.2,82.1,19.7,87.2,No,Bachelor,Yes,Low Risk
+STU1928,Zara Bhat,Male,22,Master of Computer Applications,84.2,86.1,75.7,18.3,79.1,Yes,Diploma,Yes,Low Risk
+STU1929,Sakshi Deshmukh,Male,24,Information Technology,73.3,67.7,54.1,12.3,74.3,No,Master,Yes,Medium Risk
+STU1930,Harsh Mishra,Female,24,Master of Computer Applications,84.2,73.3,69.3,12.4,80.9,No,Bachelor,Yes,Low Risk
+STU1931,Bhavna Nair,Male,22,Master of Computer Applications,35.9,36.7,26.5,2.0,42.1,No,Doctorate,No,High Risk
+STU1932,Manish Bose,Other,24,Data Science and AI,87.8,87.1,91.2,23.9,77.7,Yes,High School,Yes,Low Risk
+STU1933,Shreya Nair,Male,21,Information Technology,87.7,75.3,76.2,15.8,63.6,Yes,Bachelor,Yes,Low Risk
+STU1934,Siddharth Rao,Male,22,Data Science and AI,52.0,30.9,25.0,3.3,50.8,No,Doctorate,Yes,High Risk
+STU1935,Aarav Singh,Other,21,Information Technology,74.5,60.1,51.5,6.3,64.1,No,Master,Yes,Medium Risk
+STU1936,Pranav Kulkarni,Other,22,Computer Science and Engineering,97.2,90.8,95.7,27.3,79.3,No,High School,No,Low Risk
+STU1937,Sakshi Mehta,Male,23,Data Science and AI,89.1,77.2,74.0,19.0,68.6,Yes,Bachelor,No,Medium Risk
+STU1938,Chetan Saxena,Female,23,Master of Computer Applications,76.0,75.6,69.0,17.4,79.0,Yes,Doctorate,Yes,Low Risk
+STU1939,Siddharth Pandey,Other,23,Data Science and AI,75.6,56.3,42.2,10.0,67.8,No,Master,Yes,Medium Risk
+STU1940,Akash Rao,Other,22,Computer Science and Engineering,83.4,73.9,73.4,15.9,79.1,No,Bachelor,Yes,Low Risk
+STU1941,Aniket Patel,Male,21,Computer Science and Engineering,74.8,86.3,72.6,20.0,86.9,No,Doctorate,Yes,Low Risk
+STU1942,Chetan Sharma,Other,21,Master of Computer Applications,66.3,67.1,60.9,13.1,71.5,No,Diploma,Yes,Medium Risk
+STU1943,Nikhil Pillai,Female,21,Master of Computer Applications,80.6,84.3,80.3,17.3,72.9,No,Diploma,Yes,Low Risk
+STU1944,Chetan Bhat,Other,21,Data Science and AI,86.8,72.7,77.1,17.7,72.9,No,High School,Yes,Medium Risk
+STU1945,Kavya Sharma,Female,22,Information Technology,70.8,57.4,43.0,11.6,57.5,Yes,High School,Yes,Medium Risk
+STU1946,Deepak Patel,Male,23,Computer Science and Engineering,63.8,46.4,46.2,5.6,53.9,No,Bachelor,No,High Risk
+STU1947,Devika Patel,Other,23,Computer Science and Engineering,65.9,58.7,51.8,9.8,76.9,No,Bachelor,Yes,Medium Risk
+STU1948,Tanvi Mehta,Female,24,Data Science and AI,71.2,54.2,59.1,13.8,62.2,Yes,Master,Yes,Medium Risk
+STU1949,Sakshi Sharma,Female,21,Master of Computer Applications,99.5,99.0,97.4,36.1,98.0,Yes,Doctorate,Yes,Low Risk
+STU1950,Aarav Kulkarni,Other,22,Master of Computer Applications,74.4,64.4,69.0,11.1,76.8,No,Doctorate,Yes,Medium Risk
+STU1951,Akash Bhat,Male,24,Information Technology,78.5,80.1,64.2,19.9,72.6,Yes,Doctorate,No,Low Risk
+STU1952,Divya Rao,Other,24,Information Technology,72.5,62.0,56.4,13.2,59.6,Yes,Doctorate,Yes,Medium Risk
+STU1953,Deepak Rao,Female,22,Data Science and AI,62.1,58.4,64.5,13.8,50.4,No,Master,Yes,Medium Risk
+STU1954,Aditi Menon,Male,23,Computer Science and Engineering,54.4,41.3,28.0,2.9,44.4,Yes,Diploma,Yes,High Risk
+STU1955,Suraj Mishra,Female,22,Computer Science and Engineering,58.8,70.8,68.3,16.5,79.1,Yes,Bachelor,Yes,High Risk
+STU1956,Siddharth Sharma,Other,24,Computer Science and Engineering,71.2,57.9,54.8,12.0,57.5,No,High School,Yes,Medium Risk
+STU1957,Akash Sharma,Other,24,Data Science and AI,58.0,38.6,31.3,7.6,50.3,Yes,Doctorate,Yes,High Risk
+STU1958,Devika Patel,Female,24,Computer Science and Engineering,62.0,48.5,45.9,10.5,62.8,No,Bachelor,Yes,Medium Risk
+STU1959,Nikhil Bose,Other,21,Computer Science and Engineering,99.5,84.9,83.0,25.0,81.8,No,Diploma,No,Low Risk
+STU1960,Meera Nair,Other,25,Information Technology,99.5,96.2,88.8,24.1,85.5,No,Diploma,Yes,Low Risk
+STU1961,Gaurav Gupta,Other,21,Master of Computer Applications,74.6,78.2,73.9,22.8,81.7,Yes,Doctorate,Yes,Low Risk
+STU1962,Zara Kulkarni,Other,21,Master of Computer Applications,81.3,76.3,70.9,14.2,74.3,No,Bachelor,Yes,Medium Risk
+STU1963,Arjun Iyer,Male,21,Computer Science and Engineering,79.9,83.7,93.0,21.8,83.9,No,Doctorate,Yes,Low Risk
+STU1964,Aishwarya Joshi,Female,22,Computer Science and Engineering,68.1,62.7,56.3,10.4,66.3,Yes,Diploma,Yes,Medium Risk
+STU1965,Divya Rao,Other,23,Master of Computer Applications,84.5,77.8,77.1,23.3,81.1,No,Diploma,Yes,Low Risk
+STU1966,Sakshi Menon,Female,22,Information Technology,76.5,74.3,71.6,18.2,71.8,No,Doctorate,Yes,Medium Risk
+STU1967,Rohan Bhat,Other,21,Computer Science and Engineering,71.4,64.3,60.8,14.3,68.6,No,Doctorate,Yes,Medium Risk
+STU1968,Harsh Chopra,Female,21,Data Science and AI,74.8,70.5,64.0,15.3,60.8,Yes,Diploma,Yes,Medium Risk
+STU1969,Aarav Joshi,Male,21,Computer Science and Engineering,98.2,85.1,92.7,24.2,80.4,Yes,Master,Yes,Low Risk
+STU1970,Rahul Chopra,Male,22,Information Technology,80.7,70.8,71.8,21.6,75.2,No,Master,Yes,Low Risk
+STU1971,Zara Das,Female,24,Information Technology,74.0,67.8,64.4,20.9,72.7,Yes,Master,Yes,Medium Risk
+STU1972,Devika Singh,Male,22,Master of Computer Applications,75.6,71.1,64.5,16.9,78.1,No,Bachelor,Yes,Low Risk
+STU1973,Ishaan Mishra,Male,23,Information Technology,83.8,76.9,66.7,16.5,79.3,Yes,High School,Yes,Low Risk
+STU1974,Arjun Sharma,Other,23,Master of Computer Applications,76.9,80.3,83.0,20.3,73.0,No,Doctorate,Yes,Low Risk
+STU1975,Karan Mehta,Other,23,Computer Science and Engineering,47.5,33.5,34.1,2.0,40.0,No,High School,Yes,High Risk
+STU1976,Devika Iyer,Other,23,Data Science and AI,84.5,72.6,71.7,19.9,66.8,No,Diploma,Yes,Low Risk
+STU1977,Siddharth Mehta,Male,23,Information Technology,59.8,53.0,48.5,10.8,66.2,Yes,Diploma,Yes,High Risk
+STU1978,Zara Pandey,Other,21,Master of Computer Applications,72.2,60.9,61.6,14.6,61.1,No,Master,Yes,Medium Risk
+STU1979,Siddharth Pandey,Male,22,Computer Science and Engineering,70.6,75.5,66.2,19.3,71.2,Yes,Doctorate,Yes,Medium Risk
+STU1980,Manish Pandey,Male,21,Data Science and AI,89.2,91.6,81.2,26.7,91.9,No,Diploma,Yes,Low Risk
+STU1981,Meera Trivedi,Other,21,Computer Science and Engineering,63.3,59.7,45.6,10.3,69.0,No,Master,Yes,Medium Risk
+STU1982,Shreya Verma,Male,21,Data Science and AI,85.8,59.8,68.3,15.1,63.1,Yes,Diploma,Yes,Medium Risk
+STU1983,Arjun Iyer,Female,22,Computer Science and Engineering,73.4,70.2,75.8,19.9,66.3,No,High School,Yes,Medium Risk
+STU1984,Nikhil Pandey,Female,21,Data Science and AI,73.3,85.9,68.3,23.7,80.7,Yes,Master,Yes,Low Risk
+STU1985,Zara Verma,Male,24,Information Technology,89.6,79.9,83.7,21.1,64.9,No,High School,No,Low Risk
+STU1986,Bhavna Kulkarni,Female,24,Information Technology,59.3,58.7,52.1,15.3,55.6,Yes,Doctorate,Yes,High Risk
+STU1987,Chetan Trivedi,Male,22,Data Science and AI,62.1,54.4,57.0,12.0,70.2,No,Master,Yes,Medium Risk
+STU1988,Siddharth Trivedi,Other,24,Master of Computer Applications,79.7,71.2,69.1,20.1,73.7,Yes,Doctorate,Yes,Medium Risk
+STU1989,Priya Mehta,Male,21,Data Science and AI,90.1,77.1,76.4,22.6,76.3,No,Bachelor,Yes,Low Risk
+STU1990,Shreya Menon,Female,23,Master of Computer Applications,72.4,77.2,75.8,22.0,56.8,Yes,Doctorate,Yes,Medium Risk
+STU1991,Ishaan Das,Male,21,Computer Science and Engineering,50.1,53.2,53.9,9.9,55.6,No,High School,Yes,High Risk
+STU1992,Aniket Kulkarni,Female,22,Computer Science and Engineering,88.8,78.8,83.4,19.9,76.3,Yes,Diploma,Yes,Low Risk
+STU1993,Meera Gupta,Female,23,Master of Computer Applications,99.5,92.0,82.6,23.7,84.4,Yes,Diploma,Yes,Low Risk
+STU1994,Tanvi Joshi,Other,22,Master of Computer Applications,53.9,39.8,40.3,5.5,55.2,Yes,Master,Yes,High Risk
+STU1995,Abhishek Menon,Male,22,Computer Science and Engineering,74.2,91.3,82.5,24.0,90.1,No,Master,Yes,Low Risk
+STU1996,Aditi Nair,Male,24,Computer Science and Engineering,54.3,41.8,38.1,7.9,53.8,No,Doctorate,Yes,High Risk
+STU1997,Karan Gupta,Male,21,Master of Computer Applications,87.4,73.7,84.2,18.0,75.8,No,Doctorate,Yes,Low Risk
+STU1998,Kavya Verma,Male,22,Information Technology,80.3,80.2,70.7,22.4,75.4,No,Diploma,Yes,Low Risk
+STU1999,Bhavna Mehta,Other,22,Master of Computer Applications,82.2,85.7,87.6,21.7,85.1,Yes,Bachelor,Yes,Low Risk
+STU2000,Deepak Reddy,Female,22,Data Science and AI,66.8,65.6,54.5,9.3,68.2,No,Master,Yes,Medium Risk
+STU2001,Manish Nair,Female,22,Computer Science and Engineering,96.8,92.4,84.8,23.9,96.1,No,Doctorate,Yes,Low Risk
+STU2002,Meera Deshmukh,Other,22,Information Technology,72.2,57.5,49.2,12.6,65.5,Yes,Diploma,Yes,Medium Risk
+STU2003,Sanjay Das,Other,21,Master of Computer Applications,99.5,80.5,79.2,23.6,91.1,No,Diploma,Yes,Low Risk
+STU2004,Sneha Mehta,Male,24,Master of Computer Applications,77.6,78.3,76.9,20.1,71.3,No,High School,No,Low Risk
+STU2005,Neha Pandey,Other,21,Data Science and AI,79.1,73.8,62.7,17.6,78.5,No,Diploma,Yes,Low Risk
+STU2006,Komal Singh,Male,22,Data Science and AI,66.9,55.0,65.8,14.2,56.9,No,Doctorate,Yes,Medium Risk
+STU2007,Komal Verma,Other,25,Master of Computer Applications,88.9,86.1,84.9,22.1,84.2,Yes,High School,Yes,Low Risk
+STU2008,Abhishek Pillai,Male,21,Master of Computer Applications,79.5,77.7,84.8,22.8,76.8,No,Master,Yes,Low Risk
+STU2009,Bhavna Bose,Female,21,Master of Computer Applications,70.4,68.4,63.6,17.7,66.7,Yes,Doctorate,Yes,Medium Risk
+STU2010,Varun Nair,Female,22,Data Science and AI,71.6,59.9,51.5,10.2,60.2,Yes,Bachelor,Yes,Medium Risk
+STU2011,Karan Saxena,Other,21,Master of Computer Applications,73.6,75.9,65.8,17.2,75.2,No,Master,Yes,Medium Risk
+STU2012,Ishaan Iyer,Female,22,Computer Science and Engineering,68.3,73.9,72.3,22.3,70.8,No,High School,Yes,Low Risk
+STU2013,Rhea Deshmukh,Other,22,Data Science and AI,96.5,78.4,81.4,20.7,82.7,No,Bachelor,Yes,Low Risk
+STU2014,Neha Sharma,Other,21,Master of Computer Applications,97.0,87.4,85.5,21.9,78.6,Yes,Doctorate,Yes,Low Risk
+STU2015,Bhavna Singh,Other,23,Master of Computer Applications,94.6,92.4,82.9,19.1,86.7,Yes,Master,Yes,Low Risk
+STU2016,Nikhil Bhat,Female,22,Data Science and AI,81.0,77.9,70.9,19.7,67.6,No,Bachelor,No,Low Risk
+STU2017,Divya Kumar,Female,22,Information Technology,73.4,67.6,64.6,16.7,70.4,Yes,Bachelor,Yes,Medium Risk
+STU2018,Chetan Bose,Other,22,Information Technology,89.4,99.0,92.9,23.6,90.9,Yes,Doctorate,Yes,Low Risk
+STU2019,Rahul Pillai,Female,22,Computer Science and Engineering,76.6,77.0,75.7,20.6,70.8,Yes,Master,Yes,Medium Risk
+STU2020,Devika Mishra,Female,22,Computer Science and Engineering,91.7,97.2,83.1,27.5,82.4,No,Bachelor,No,Low Risk
+STU2021,Devika Mishra,Female,21,Information Technology,79.5,65.8,70.6,13.7,73.2,Yes,Bachelor,Yes,Low Risk
+STU2022,Harsh Chopra,Other,25,Data Science and AI,78.1,58.2,52.3,8.9,50.3,No,Diploma,Yes,Medium Risk
+STU2023,Gaurav Saxena,Male,21,Data Science and AI,68.8,62.4,58.1,11.9,67.9,No,Diploma,Yes,Medium Risk
+STU2024,Divya Reddy,Other,22,Data Science and AI,57.7,34.7,41.9,7.9,54.0,Yes,Bachelor,Yes,High Risk
+STU2025,Devika Deshmukh,Other,22,Master of Computer Applications,71.4,65.7,72.7,13.2,61.9,Yes,Diploma,Yes,Medium Risk
+STU2026,Sneha Kulkarni,Male,22,Master of Computer Applications,68.5,50.1,52.9,4.3,63.3,No,Diploma,Yes,Medium Risk
+STU2027,Abhishek Deshmukh,Female,21,Master of Computer Applications,73.5,62.8,58.4,12.9,72.7,No,High School,Yes,Medium Risk
+STU2028,Priya Nair,Female,22,Master of Computer Applications,91.1,84.4,74.8,18.2,81.3,Yes,Doctorate,Yes,Low Risk
+STU2029,Akash Saxena,Female,23,Data Science and AI,60.5,47.6,55.0,12.4,60.1,Yes,Doctorate,Yes,Medium Risk
+STU2030,Bhavna Rao,Other,22,Master of Computer Applications,75.5,57.8,50.6,6.4,68.6,No,Diploma,No,Medium Risk
+STU2031,Aishwarya Das,Male,21,Computer Science and Engineering,77.8,85.0,73.6,24.0,83.9,Yes,Doctorate,Yes,Low Risk
+STU2032,Rhea Reddy,Male,25,Computer Science and Engineering,59.7,52.9,54.4,9.2,57.3,Yes,Doctorate,Yes,High Risk
+STU2033,Manish Pillai,Male,23,Information Technology,67.2,65.6,51.6,9.0,68.2,No,Diploma,Yes,Medium Risk
+STU2034,Aarav Gupta,Male,22,Information Technology,74.9,66.3,54.2,12.2,68.4,Yes,Master,Yes,Medium Risk
+STU2035,Shreya Pillai,Female,23,Data Science and AI,61.4,57.7,53.8,8.4,63.4,No,Doctorate,Yes,Medium Risk
+STU2036,Neha Pandey,Male,21,Master of Computer Applications,75.5,66.7,78.2,14.7,70.6,Yes,High School,Yes,Medium Risk
+STU2037,Devika Rao,Other,21,Information Technology,61.9,51.0,36.8,8.9,53.8,No,Bachelor,Yes,Medium Risk
+STU2038,Rahul Nair,Other,23,Computer Science and Engineering,97.1,83.6,85.4,21.6,77.2,Yes,Master,Yes,Low Risk
+STU2039,Suraj Trivedi,Male,21,Information Technology,86.2,77.4,78.4,21.1,69.0,Yes,Diploma,Yes,Low Risk
+STU2040,Tanvi Pandey,Male,21,Master of Computer Applications,67.3,72.9,68.9,19.2,78.2,Yes,Doctorate,Yes,Medium Risk
+STU2041,Rhea Joshi,Male,21,Information Technology,74.2,64.5,58.9,15.2,53.7,No,Doctorate,Yes,Medium Risk
+STU2042,Harsh Iyer,Other,22,Data Science and AI,81.5,73.1,66.7,17.0,67.6,Yes,Master,Yes,Low Risk
+STU2043,Harsh Menon,Male,22,Information Technology,61.3,45.4,51.6,3.7,52.1,Yes,Master,Yes,High Risk
+STU2044,Zara Trivedi,Male,22,Data Science and AI,81.5,80.9,73.5,15.9,74.5,No,High School,Yes,Low Risk
+STU2045,Priya Patel,Female,23,Computer Science and Engineering,90.1,82.3,71.9,18.4,74.8,No,Diploma,Yes,Medium Risk
+STU2046,Sakshi Bose,Female,22,Master of Computer Applications,86.9,78.8,74.6,22.4,78.9,Yes,Bachelor,No,Low Risk
+STU2047,Pranav Rao,Male,25,Data Science and AI,96.6,90.1,92.4,25.9,97.3,Yes,Bachelor,Yes,Low Risk
+STU2048,Arjun Mishra,Male,25,Data Science and AI,75.5,78.4,68.2,16.8,76.3,Yes,Bachelor,Yes,Low Risk
+STU2049,Shreya Reddy,Other,21,Information Technology,80.0,77.2,69.0,19.1,82.8,No,Diploma,Yes,Medium Risk
+STU2050,Neha Menon,Other,22,Computer Science and Engineering,58.9,48.0,57.3,7.7,56.9,No,Diploma,Yes,High Risk
+STU2051,Pranav Iyer,Male,23,Computer Science and Engineering,81.3,71.9,66.8,19.9,78.6,Yes,Diploma,Yes,Low Risk
+STU2052,Pranav Deshmukh,Female,21,Computer Science and Engineering,80.5,72.7,65.7,17.2,79.2,Yes,High School,Yes,Low Risk
+STU2053,Gaurav Patel,Other,22,Data Science and AI,95.9,87.2,95.8,25.2,88.2,Yes,Doctorate,Yes,Low Risk
+STU2054,Aarav Mishra,Male,25,Data Science and AI,94.8,83.5,91.5,19.7,80.1,No,Bachelor,Yes,Low Risk
+STU2055,Mayank Joshi,Female,21,Information Technology,72.2,63.4,57.5,14.6,67.9,No,Master,Yes,Medium Risk
+STU2056,Meera Pandey,Female,22,Data Science and AI,84.1,75.2,72.9,20.0,69.4,No,Diploma,Yes,Low Risk
+STU2057,Harsh Kumar,Male,24,Data Science and AI,86.1,75.7,77.1,15.1,80.5,Yes,Master,Yes,Low Risk
+STU2058,Chetan Verma,Other,23,Information Technology,78.0,71.3,61.2,14.7,64.2,No,Master,Yes,Medium Risk
+STU2059,Meera Das,Male,23,Data Science and AI,84.8,80.2,78.0,22.2,73.3,Yes,Bachelor,No,Low Risk
+STU2060,Aarav Sharma,Other,22,Computer Science and Engineering,63.7,58.1,46.1,8.6,64.5,No,Master,Yes,Medium Risk
+STU2061,Karan Singh,Female,21,Information Technology,74.0,76.1,70.0,20.3,85.7,No,Doctorate,Yes,Low Risk
+STU2062,Priya Gupta,Other,22,Information Technology,49.0,43.4,39.3,2.0,48.2,No,Diploma,Yes,High Risk
+STU2063,Rahul Menon,Other,24,Information Technology,76.6,81.3,76.0,18.0,76.1,Yes,Bachelor,Yes,Low Risk
+STU2064,Meera Menon,Female,21,Computer Science and Engineering,68.6,60.4,58.6,14.5,57.2,No,Master,Yes,Medium Risk
+STU2065,Siddharth Chopra,Female,23,Information Technology,68.0,76.0,70.4,17.2,75.3,No,Master,Yes,Medium Risk
+STU2066,Meera Trivedi,Male,21,Computer Science and Engineering,69.8,51.4,46.7,11.3,64.7,No,High School,Yes,Medium Risk
+STU2067,Rahul Nair,Other,23,Data Science and AI,80.2,65.4,75.9,14.4,69.4,No,Master,Yes,Low Risk
+STU2068,Neha Kumar,Other,23,Computer Science and Engineering,71.7,61.0,63.2,12.0,72.6,Yes,Master,Yes,Medium Risk
+STU2069,Aarav Gupta,Female,23,Data Science and AI,70.1,63.1,65.2,16.3,55.1,No,Diploma,Yes,Medium Risk
+STU2070,Bhavna Mishra,Other,22,Information Technology,66.1,69.9,61.9,14.2,65.2,No,Master,Yes,Medium Risk
+STU2071,Rohan Iyer,Other,24,Master of Computer Applications,80.6,77.7,73.3,18.7,81.2,No,Master,Yes,Low Risk
+STU2072,Divya Bhat,Male,22,Master of Computer Applications,99.5,92.0,88.2,25.3,84.9,Yes,Diploma,Yes,Low Risk
+STU2073,Priya Menon,Other,22,Master of Computer Applications,80.9,73.3,66.8,18.9,80.2,No,Master,Yes,Low Risk
+STU2074,Sanjay Iyer,Female,21,Information Technology,49.7,49.3,48.2,9.1,56.1,No,Doctorate,Yes,High Risk
+STU2075,Devika Iyer,Female,22,Master of Computer Applications,67.2,62.6,57.2,13.6,69.8,No,Master,Yes,Medium Risk
+STU2076,Gaurav Chopra,Other,21,Computer Science and Engineering,71.3,61.3,63.9,17.0,63.8,No,Doctorate,Yes,Medium Risk
+STU2077,Harsh Kulkarni,Other,22,Computer Science and Engineering,98.5,99.0,90.7,29.8,93.7,No,Bachelor,Yes,Low Risk
+STU2078,Shreya Joshi,Other,22,Data Science and AI,91.7,81.3,74.3,17.9,78.1,Yes,Master,Yes,Low Risk
+STU2079,Deepak Mehta,Other,22,Information Technology,66.0,67.2,58.4,16.7,64.1,Yes,Master,Yes,Medium Risk
+STU2080,Kavya Gupta,Other,25,Information Technology,95.0,77.9,74.3,17.2,71.4,No,Master,Yes,Low Risk
+STU2081,Mayank Trivedi,Female,23,Master of Computer Applications,62.5,51.2,53.1,9.8,72.2,Yes,High School,Yes,Medium Risk
+STU2082,Manish Joshi,Male,25,Information Technology,66.1,60.8,53.2,15.5,70.2,No,Bachelor,Yes,Medium Risk
+STU2083,Rhea Bhat,Female,22,Data Science and AI,61.7,40.3,37.7,4.9,54.5,Yes,Bachelor,Yes,High Risk
+STU2084,Vikram Chopra,Other,22,Data Science and AI,68.3,53.6,48.2,9.2,65.7,Yes,Master,Yes,Medium Risk
+STU2085,Manish Gupta,Male,24,Computer Science and Engineering,78.6,76.9,63.7,17.8,89.6,Yes,Diploma,Yes,Low Risk
+STU2086,Priya Saxena,Other,22,Master of Computer Applications,78.7,82.2,75.1,16.6,86.4,No,Diploma,Yes,Low Risk
+STU2087,Manish Mehta,Male,22,Master of Computer Applications,99.5,99.0,86.9,24.4,98.0,No,High School,Yes,Low Risk
+STU2088,Abhishek Mishra,Male,22,Master of Computer Applications,83.5,93.3,75.1,20.3,85.1,Yes,Master,Yes,Low Risk
+STU2089,Bhavna Patel,Male,22,Information Technology,95.8,97.6,99.3,28.7,88.1,No,Doctorate,Yes,Low Risk
+STU2090,Kavya Patel,Other,22,Data Science and AI,78.8,70.6,54.5,15.2,74.0,No,Bachelor,Yes,Medium Risk
+STU2091,Pooja Nair,Other,22,Information Technology,74.6,80.2,63.0,18.3,75.8,No,Master,Yes,Low Risk
+STU2092,Ishaan Kumar,Other,21,Computer Science and Engineering,86.6,85.2,76.3,27.9,81.9,Yes,High School,Yes,Low Risk
+STU2093,Akash Pillai,Female,24,Information Technology,75.3,70.1,73.9,20.5,63.4,Yes,Master,Yes,Medium Risk
+STU2094,Zara Mishra,Female,23,Data Science and AI,59.6,55.2,52.2,9.8,51.7,Yes,Diploma,Yes,High Risk
+STU2095,Chetan Gupta,Other,21,Data Science and AI,73.4,63.6,62.8,16.3,66.5,Yes,Doctorate,Yes,Medium Risk
+STU2096,Varun Pandey,Other,24,Information Technology,65.6,58.5,50.3,10.1,60.4,No,Bachelor,Yes,Medium Risk
+STU2097,Abhishek Mishra,Male,22,Master of Computer Applications,70.7,82.0,75.8,22.5,86.6,No,Master,Yes,Low Risk
+STU2098,Rohan Chopra,Female,21,Information Technology,92.0,83.1,78.7,25.2,83.4,Yes,Diploma,Yes,Low Risk
+STU2099,Rohan Sharma,Male,21,Computer Science and Engineering,96.7,99.0,92.0,25.2,97.9,No,Bachelor,Yes,Low Risk
+STU2100,Rhea Menon,Other,22,Master of Computer Applications,91.7,89.6,84.3,22.5,80.9,No,Master,Yes,Low Risk
+STU2101,Abhishek Rao,Male,22,Data Science and AI,79.3,75.7,72.7,19.1,75.0,No,Bachelor,Yes,Low Risk
+STU2102,Komal Nair,Male,22,Information Technology,90.5,85.8,86.7,26.8,86.0,No,Diploma,No,Low Risk
+STU2103,Tanvi Mishra,Female,23,Data Science and AI,75.1,69.7,66.5,16.0,61.9,No,Diploma,Yes,Medium Risk
+STU2104,Manish Bhat,Other,22,Data Science and AI,57.5,52.0,53.4,12.6,62.1,Yes,Master,Yes,High Risk
+STU2105,Pooja Iyer,Male,23,Data Science and AI,64.1,69.0,47.9,11.7,65.2,Yes,Diploma,Yes,Medium Risk
+STU2106,Bhavna Deshmukh,Other,22,Information Technology,79.8,69.0,68.5,16.6,73.2,Yes,Bachelor,No,Medium Risk
+STU2107,Chetan Iyer,Female,23,Computer Science and Engineering,93.0,69.5,61.9,15.4,68.2,No,High School,Yes,Low Risk
+STU2108,Meera Kumar,Female,22,Master of Computer Applications,75.5,79.7,63.0,15.8,84.5,No,Master,Yes,Low Risk
+STU2109,Mayank Das,Female,22,Data Science and AI,81.1,64.7,56.7,14.1,84.1,Yes,Diploma,Yes,Medium Risk
+STU2110,Sakshi Sharma,Male,23,Master of Computer Applications,68.9,71.4,72.8,18.3,75.0,Yes,Doctorate,Yes,Medium Risk
+STU2111,Aditi Gupta,Male,21,Information Technology,81.0,58.2,60.2,12.0,75.7,No,Bachelor,No,Low Risk
+STU2112,Ishaan Bhat,Female,23,Master of Computer Applications,84.1,79.8,70.8,21.3,74.9,No,Diploma,Yes,Low Risk
+STU2113,Deepak Kumar,Male,21,Data Science and AI,61.5,40.6,28.3,4.4,53.5,Yes,Diploma,No,High Risk
+STU2114,Sanjay Bose,Female,21,Data Science and AI,82.4,76.9,76.9,20.3,78.7,No,Bachelor,Yes,Low Risk
+STU2115,Zara Bhat,Male,21,Information Technology,79.4,88.3,73.2,24.2,88.1,No,High School,Yes,Low Risk
+STU2116,Kavya Verma,Female,22,Data Science and AI,68.7,59.9,52.3,13.6,67.1,Yes,High School,Yes,Medium Risk
+STU2117,Chetan Menon,Male,23,Computer Science and Engineering,67.3,69.7,67.3,15.5,65.2,No,Bachelor,Yes,Medium Risk
+STU2118,Sneha Sharma,Male,23,Computer Science and Engineering,59.0,42.7,35.9,2.0,54.0,No,Master,Yes,High Risk
+STU2119,Vikram Nair,Other,22,Master of Computer Applications,71.4,69.9,56.8,14.2,79.1,No,Diploma,Yes,Medium Risk
+STU2120,Zara Saxena,Male,23,Computer Science and Engineering,60.4,55.9,47.3,9.9,55.4,No,Master,Yes,High Risk
+STU2121,Sneha Pillai,Female,21,Information Technology,82.4,79.8,74.7,15.5,69.1,No,Diploma,Yes,Low Risk
+STU2122,Akash Saxena,Other,22,Master of Computer Applications,55.0,40.2,31.7,2.0,52.7,Yes,Bachelor,Yes,High Risk
+STU2123,Abhishek Kulkarni,Female,22,Computer Science and Engineering,76.7,78.7,70.2,20.6,66.8,Yes,Bachelor,Yes,Low Risk
+STU2124,Ananya Pillai,Male,23,Master of Computer Applications,75.1,49.5,52.3,11.4,68.4,Yes,Diploma,Yes,Medium Risk
+STU2125,Varun Joshi,Male,24,Computer Science and Engineering,53.8,39.3,33.7,8.1,52.0,Yes,Bachelor,Yes,High Risk
+STU2126,Karan Singh,Female,23,Computer Science and Engineering,84.6,74.4,84.8,17.1,74.2,No,High School,Yes,Low Risk
+STU2127,Akash Trivedi,Other,24,Data Science and AI,77.3,58.3,48.7,15.2,63.6,No,Doctorate,No,Medium Risk
+STU2128,Kavya Chopra,Male,21,Computer Science and Engineering,55.2,46.1,35.0,6.8,56.5,Yes,Diploma,Yes,High Risk
+STU2129,Aishwarya Patel,Other,21,Information Technology,50.6,59.1,42.1,12.9,56.6,No,High School,Yes,High Risk
+STU2130,Ananya Chopra,Other,23,Computer Science and Engineering,83.3,76.2,73.7,16.5,73.3,Yes,Doctorate,Yes,Low Risk
+STU2131,Divya Kumar,Female,24,Computer Science and Engineering,62.8,58.8,57.3,14.1,60.7,Yes,Bachelor,Yes,High Risk
+STU2132,Devika Kulkarni,Female,25,Data Science and AI,88.9,77.6,75.6,18.0,82.9,No,Diploma,Yes,Low Risk
+STU2133,Aditi Bhat,Female,21,Information Technology,93.2,90.9,86.8,23.4,78.4,Yes,Diploma,Yes,Low Risk
+STU2134,Priya Verma,Female,23,Data Science and AI,57.6,66.3,61.9,12.5,63.4,Yes,Doctorate,Yes,High Risk
+STU2135,Rhea Mishra,Other,21,Data Science and AI,57.3,42.0,53.9,9.3,42.9,Yes,Diploma,Yes,High Risk
+STU2136,Harsh Gupta,Other,21,Information Technology,86.8,77.5,78.8,25.1,75.5,Yes,Bachelor,Yes,Low Risk
+STU2137,Zara Iyer,Other,22,Computer Science and Engineering,81.5,70.6,74.9,19.1,71.9,No,High School,Yes,Medium Risk
+STU2138,Bhavna Kumar,Female,21,Information Technology,82.8,73.9,78.8,22.1,80.3,No,Bachelor,Yes,Low Risk
+STU2139,Chetan Chopra,Female,23,Master of Computer Applications,57.4,51.7,40.7,13.2,55.2,Yes,Doctorate,Yes,High Risk
+STU2140,Sneha Saxena,Male,24,Master of Computer Applications,77.6,63.4,59.7,12.7,61.3,No,Doctorate,Yes,Medium Risk
+STU2141,Siddharth Deshmukh,Male,22,Information Technology,71.8,57.1,41.6,8.8,65.7,No,High School,Yes,Medium Risk
+STU2142,Chetan Mehta,Male,23,Data Science and AI,65.0,72.5,62.8,19.1,69.9,No,Doctorate,Yes,Low Risk
+STU2143,Kavya Deshmukh,Female,21,Information Technology,76.1,47.6,61.6,12.0,52.6,Yes,Master,Yes,Medium Risk
+STU2144,Sakshi Singh,Male,22,Master of Computer Applications,77.1,70.8,63.2,14.0,75.2,No,High School,No,Medium Risk
+STU2145,Ishaan Gupta,Male,25,Computer Science and Engineering,67.3,61.3,52.5,13.4,72.9,Yes,High School,Yes,Medium Risk
+STU2146,Aishwarya Reddy,Male,24,Master of Computer Applications,76.8,60.1,52.2,11.3,65.4,Yes,Doctorate,Yes,High Risk
+STU2147,Sneha Pillai,Female,21,Information Technology,74.9,53.8,60.1,11.9,46.9,Yes,High School,Yes,Medium Risk
+STU2148,Siddharth Nair,Other,23,Master of Computer Applications,62.6,55.1,32.3,5.1,60.8,Yes,High School,Yes,High Risk
+STU2149,Nikhil Kulkarni,Female,22,Master of Computer Applications,93.0,99.0,84.8,26.0,86.3,No,Master,Yes,Low Risk
+STU2150,Ananya Chopra,Other,22,Data Science and AI,99.5,99.0,100.0,29.9,95.0,No,Bachelor,Yes,Low Risk
+STU2151,Ananya Deshmukh,Female,22,Master of Computer Applications,98.2,95.2,92.6,30.7,92.1,Yes,High School,Yes,Low Risk
+STU2152,Rohan Patel,Male,23,Master of Computer Applications,57.1,41.4,38.2,3.8,54.2,No,High School,Yes,High Risk
+STU2153,Pooja Mishra,Female,22,Computer Science and Engineering,81.7,82.6,73.8,17.7,75.1,No,Diploma,Yes,Low Risk
+STU2154,Bhavna Pillai,Male,25,Computer Science and Engineering,62.0,51.8,42.4,7.6,53.5,No,Doctorate,Yes,Medium Risk
+STU2155,Devika Bose,Other,24,Master of Computer Applications,62.8,78.4,65.0,23.7,79.5,Yes,Doctorate,Yes,Medium Risk
+STU2156,Shreya Pillai,Female,21,Data Science and AI,86.5,89.5,77.9,21.9,91.9,Yes,High School,Yes,Low Risk
+STU2157,Manish Gupta,Other,22,Data Science and AI,65.9,61.0,56.8,14.4,58.0,Yes,Doctorate,Yes,Medium Risk
+STU2158,Sanjay Pillai,Male,21,Data Science and AI,84.3,89.5,77.0,19.9,86.5,No,Bachelor,No,Low Risk
+STU2159,Sakshi Mishra,Female,25,Information Technology,60.8,42.4,48.7,8.7,57.0,No,Master,Yes,High Risk
+STU2160,Varun Saxena,Female,22,Computer Science and Engineering,91.4,75.3,70.6,18.4,75.7,No,Doctorate,Yes,Low Risk
+STU2161,Chetan Reddy,Female,22,Information Technology,78.0,82.0,74.2,18.0,76.6,No,Bachelor,Yes,Low Risk
+STU2162,Vikram Das,Female,21,Master of Computer Applications,73.7,55.9,65.1,13.2,56.0,Yes,High School,Yes,Medium Risk
+STU2163,Rhea Deshmukh,Male,24,Computer Science and Engineering,95.2,82.8,75.4,21.0,77.6,No,Bachelor,Yes,Low Risk
+STU2164,Aarav Rao,Male,21,Computer Science and Engineering,61.0,51.0,45.9,8.0,50.7,Yes,Bachelor,Yes,High Risk
+STU2165,Aditi Bhat,Female,23,Computer Science and Engineering,92.7,70.2,71.1,20.5,75.8,Yes,High School,Yes,Low Risk
+STU2166,Akash Das,Female,25,Computer Science and Engineering,65.4,57.4,52.6,15.8,62.2,No,Diploma,Yes,Medium Risk
+STU2167,Priya Chopra,Other,22,Computer Science and Engineering,96.8,85.5,78.1,19.4,87.6,No,Diploma,Yes,Low Risk
+STU2168,Priya Rao,Male,22,Data Science and AI,85.3,93.3,79.9,23.6,86.1,Yes,Doctorate,Yes,Low Risk
+STU2169,Nikhil Saxena,Male,22,Information Technology,85.7,81.6,70.4,18.2,86.0,No,Master,Yes,Low Risk
+STU2170,Meera Menon,Other,25,Master of Computer Applications,65.2,52.2,51.8,7.7,60.0,No,Doctorate,Yes,High Risk
+STU2171,Rohan Verma,Other,23,Data Science and AI,82.6,76.8,69.1,18.4,80.7,Yes,High School,Yes,Low Risk
+STU2172,Ananya Joshi,Female,23,Data Science and AI,92.8,88.9,92.9,21.5,87.5,Yes,Master,Yes,Low Risk
+STU2173,Gaurav Nair,Other,23,Master of Computer Applications,63.3,40.8,50.9,8.5,50.6,No,Master,Yes,High Risk
+STU2174,Ananya Rao,Other,21,Master of Computer Applications,76.8,70.1,69.0,19.9,69.3,No,Bachelor,Yes,Medium Risk
+STU2175,Chetan Trivedi,Male,21,Information Technology,85.0,85.7,67.2,15.9,82.4,Yes,Doctorate,No,Low Risk
+STU2176,Pooja Kumar,Male,22,Data Science and AI,73.0,70.3,63.3,13.2,62.1,Yes,Master,No,Medium Risk
+STU2177,Komal Trivedi,Other,23,Master of Computer Applications,78.9,68.3,69.2,15.1,73.1,No,Diploma,Yes,Medium Risk
+STU2178,Varun Rao,Female,21,Computer Science and Engineering,64.1,65.7,56.9,12.8,65.1,No,Diploma,Yes,Medium Risk
+STU2179,Sanjay Patel,Female,22,Master of Computer Applications,89.1,73.2,75.4,15.7,72.1,Yes,Doctorate,Yes,Low Risk
+STU2180,Suraj Iyer,Male,25,Data Science and AI,99.0,99.0,94.8,32.2,90.6,No,Doctorate,Yes,Low Risk
+STU2181,Varun Bhat,Male,22,Computer Science and Engineering,89.1,81.3,77.8,20.0,77.8,No,Master,Yes,Low Risk
+STU2182,Devika Reddy,Female,23,Data Science and AI,75.7,45.4,37.8,4.8,50.8,Yes,Doctorate,Yes,High Risk
+STU2183,Neha Mishra,Other,21,Computer Science and Engineering,83.3,85.6,86.2,22.0,88.3,No,Diploma,Yes,Low Risk
+STU2184,Arjun Iyer,Female,25,Information Technology,99.5,83.9,77.6,15.3,85.1,No,Doctorate,Yes,Low Risk
+STU2185,Deepak Singh,Other,23,Data Science and AI,79.0,64.9,55.3,10.6,75.4,No,Master,Yes,Medium Risk
+STU2186,Siddharth Chopra,Male,23,Information Technology,69.5,72.4,65.2,17.0,67.5,Yes,Bachelor,No,Medium Risk
+STU2187,Komal Kulkarni,Male,25,Information Technology,83.6,78.4,83.4,22.9,78.6,Yes,Diploma,Yes,Low Risk
+STU2188,Shreya Deshmukh,Female,22,Computer Science and Engineering,76.5,57.4,52.9,13.1,64.1,Yes,Master,Yes,Medium Risk
+STU2189,Akash Nair,Male,22,Information Technology,86.9,76.9,64.8,15.9,62.9,No,Diploma,Yes,Low Risk
+STU2190,Deepak Singh,Other,21,Master of Computer Applications,85.3,68.1,67.2,21.9,73.7,Yes,Diploma,Yes,Low Risk
+STU2191,Mayank Kumar,Female,22,Master of Computer Applications,57.2,56.8,28.2,7.6,61.8,No,Bachelor,Yes,High Risk
+STU2192,Gaurav Rao,Female,22,Data Science and AI,91.6,84.6,88.0,24.9,75.0,Yes,High School,Yes,Low Risk
+STU2193,Sanjay Reddy,Other,24,Computer Science and Engineering,78.9,60.2,61.6,16.2,68.0,No,Diploma,Yes,Medium Risk
+STU2194,Chetan Pandey,Female,22,Data Science and AI,81.3,68.7,68.9,19.3,76.3,Yes,Doctorate,Yes,Medium Risk
+STU2195,Kavya Bhat,Other,21,Master of Computer Applications,74.7,60.4,72.4,15.5,64.0,No,Master,Yes,Medium Risk
+STU2196,Karan Pillai,Other,23,Master of Computer Applications,63.9,69.3,64.5,13.2,65.7,Yes,Bachelor,Yes,Medium Risk
+STU2197,Manish Verma,Female,23,Computer Science and Engineering,67.2,66.3,58.9,17.9,69.5,No,Doctorate,Yes,Medium Risk
+STU2198,Rahul Verma,Female,25,Master of Computer Applications,85.3,78.3,79.1,22.2,67.4,No,High School,Yes,Low Risk
+STU2199,Sneha Pillai,Female,21,Information Technology,80.1,73.2,62.1,12.0,67.8,No,High School,Yes,Medium Risk
+STU2200,Aditi Rao,Other,25,Data Science and AI,92.3,93.7,97.5,27.7,86.6,No,Diploma,Yes,Low Risk
+STU1641,Zara Kulkarni,Other,21,Information Technology,75.7,75.2,77.4,18.1,72.0,No,High School,Yes,Low Risk
